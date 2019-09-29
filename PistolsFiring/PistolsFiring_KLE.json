@@ -1,6 +1,6 @@
 [
   {
-    "name": "GoPokes_001",
+    "name": "PistolsFiring",
     "background": {
       "name": "Cherry",
       "style": "background-image: url('/bg/wood/cherry.jpg');"
@@ -9,7 +9,7 @@
     "switchMount": "cherry",
     "switchBrand": "cherry",
     "switchType": "MX1A-E1Nx",
-    "plate": true
+    "plate": false
   },
   [
     {
@@ -51,26 +51,18 @@
     "Pause\nBreak",
     {
       "x": 0.25,
-      "t": "#1a1a1a",
-      "sm": "",
-      "sb": "",
-      "st": "",
-      "a": 7
+      "t": "#1a1a1a"
     },
-    "",
-    "",
-    "",
-    ""
+    "Calc\nLEDtog",
+    "Mute\nPrev",
+    "Vup\nPlay/Pause",
+    "Vdow\nNext"
   ],
   [
     {
       "y": 0.5,
       "c": "#1a1a1a",
-      "t": "#f67f00",
-      "sm": "cherry",
-      "sb": "cherry",
-      "st": "MX1A-E1Nx",
-      "a": 4
+      "t": "#f67f00"
     },
     "~\n`",
     "!\n1",
@@ -165,14 +157,12 @@
     "\"\n'",
     {
       "c": "#c13828",
-      "t": "",
       "w": 2.25
     },
     "Enter",
     {
       "x": 3.5,
-      "c": "#1a1a1a",
-      "t": "#f67f00"
+      "c": "#1a1a1a"
     },
     "4\n←",
     {

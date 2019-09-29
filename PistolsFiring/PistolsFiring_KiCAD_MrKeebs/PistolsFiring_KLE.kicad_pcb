@@ -216,90 +216,90 @@
   (net 124 "Net-(K_BREAK-Pad4)")
   (net 125 "Net-(D_BREAK-Pad1)")
   (net 126 "Net-(D_BREAK-Pad2)")
-  (net 127 "Net-(K_-Pad1)")
-  (net 128 "Net-(K_-Pad2)")
-  (net 129 "Net-(K_-Pad3)")
-  (net 130 "Net-(K_-Pad4)")
-  (net 131 "Net-(D_-Pad1)")
-  (net 132 "Net-(D_-Pad2)")
-  (net 133 "Net-(K_1-Pad1)")
-  (net 134 "Net-(K_1-Pad2)")
-  (net 135 "Net-(K_1-Pad3)")
-  (net 136 "Net-(K_1-Pad4)")
-  (net 137 "Net-(D_1-Pad1)")
-  (net 138 "Net-(D_1-Pad2)")
-  (net 139 "Net-(K_2-Pad1)")
-  (net 140 "Net-(K_2-Pad2)")
-  (net 141 "Net-(K_2-Pad3)")
-  (net 142 "Net-(K_2-Pad4)")
-  (net 143 "Net-(D_2-Pad1)")
-  (net 144 "Net-(D_2-Pad2)")
-  (net 145 "Net-(K_3-Pad1)")
-  (net 146 "Net-(K_3-Pad2)")
-  (net 147 "Net-(K_3-Pad3)")
-  (net 148 "Net-(K_3-Pad4)")
-  (net 149 "Net-(D_3-Pad1)")
-  (net 150 "Net-(D_3-Pad2)")
+  (net 127 "Net-(K_LEDTOG-Pad1)")
+  (net 128 "Net-(K_LEDTOG-Pad2)")
+  (net 129 "Net-(K_LEDTOG-Pad3)")
+  (net 130 "Net-(K_LEDTOG-Pad4)")
+  (net 131 "Net-(D_LEDTOG-Pad1)")
+  (net 132 "Net-(D_LEDTOG-Pad2)")
+  (net 133 "Net-(K_PREV-Pad1)")
+  (net 134 "Net-(K_PREV-Pad2)")
+  (net 135 "Net-(K_PREV-Pad3)")
+  (net 136 "Net-(K_PREV-Pad4)")
+  (net 137 "Net-(D_PREV-Pad1)")
+  (net 138 "Net-(D_PREV-Pad2)")
+  (net 139 "Net-(K_PLAY/PAUSE-Pad1)")
+  (net 140 "Net-(K_PLAY/PAUSE-Pad2)")
+  (net 141 "Net-(K_PLAY/PAUSE-Pad3)")
+  (net 142 "Net-(K_PLAY/PAUSE-Pad4)")
+  (net 143 "Net-(D_PLAY/PAUSE-Pad1)")
+  (net 144 "Net-(D_PLAY/PAUSE-Pad2)")
+  (net 145 "Net-(K_NEXT-Pad1)")
+  (net 146 "Net-(K_NEXT-Pad2)")
+  (net 147 "Net-(K_NEXT-Pad3)")
+  (net 148 "Net-(K_NEXT-Pad4)")
+  (net 149 "Net-(D_NEXT-Pad1)")
+  (net 150 "Net-(D_NEXT-Pad2)")
   (net 151 "Net-(K_`-Pad1)")
   (net 152 "Net-(K_`-Pad2)")
   (net 153 "Net-(K_`-Pad3)")
   (net 154 "Net-(K_`-Pad4)")
   (net 155 "Net-(D_`-Pad1)")
   (net 156 "Net-(D_`-Pad2)")
-  (net 157 "Net-(K_4-Pad1)")
-  (net 158 "Net-(K_4-Pad2)")
-  (net 159 "Net-(K_4-Pad3)")
-  (net 160 "Net-(K_4-Pad4)")
-  (net 161 "Net-(D_4-Pad1)")
-  (net 162 "Net-(D_4-Pad2)")
-  (net 163 "Net-(K_5-Pad1)")
-  (net 164 "Net-(K_5-Pad2)")
-  (net 165 "Net-(K_5-Pad3)")
-  (net 166 "Net-(K_5-Pad4)")
-  (net 167 "Net-(D_5-Pad1)")
-  (net 168 "Net-(D_5-Pad2)")
-  (net 169 "Net-(K_6-Pad1)")
-  (net 170 "Net-(K_6-Pad2)")
-  (net 171 "Net-(K_6-Pad3)")
-  (net 172 "Net-(K_6-Pad4)")
-  (net 173 "Net-(D_6-Pad1)")
-  (net 174 "Net-(D_6-Pad2)")
-  (net 175 "Net-(K_7-Pad1)")
-  (net 176 "Net-(K_7-Pad2)")
-  (net 177 "Net-(K_7-Pad3)")
-  (net 178 "Net-(K_7-Pad4)")
-  (net 179 "Net-(D_7-Pad1)")
-  (net 180 "Net-(D_7-Pad2)")
-  (net 181 "Net-(K_8-Pad1)")
-  (net 182 "Net-(K_8-Pad2)")
-  (net 183 "Net-(K_8-Pad3)")
-  (net 184 "Net-(K_8-Pad4)")
-  (net 185 "Net-(D_8-Pad1)")
-  (net 186 "Net-(D_8-Pad2)")
-  (net 187 "Net-(K_9-Pad1)")
-  (net 188 "Net-(K_9-Pad2)")
-  (net 189 "Net-(K_9-Pad3)")
-  (net 190 "Net-(K_9-Pad4)")
-  (net 191 "Net-(D_9-Pad1)")
-  (net 192 "Net-(D_9-Pad2)")
-  (net 193 "Net-(K_10-Pad1)")
-  (net 194 "Net-(K_10-Pad2)")
-  (net 195 "Net-(K_10-Pad3)")
-  (net 196 "Net-(K_10-Pad4)")
-  (net 197 "Net-(D_10-Pad1)")
-  (net 198 "Net-(D_10-Pad2)")
-  (net 199 "Net-(K_11-Pad1)")
-  (net 200 "Net-(K_11-Pad2)")
-  (net 201 "Net-(K_11-Pad3)")
-  (net 202 "Net-(K_11-Pad4)")
-  (net 203 "Net-(D_11-Pad1)")
-  (net 204 "Net-(D_11-Pad2)")
-  (net 205 "Net-(K_12-Pad1)")
-  (net 206 "Net-(K_12-Pad2)")
-  (net 207 "Net-(K_12-Pad3)")
-  (net 208 "Net-(K_12-Pad4)")
-  (net 209 "Net-(D_12-Pad1)")
-  (net 210 "Net-(D_12-Pad2)")
+  (net 157 "Net-(K_1-Pad1)")
+  (net 158 "Net-(K_1-Pad2)")
+  (net 159 "Net-(K_1-Pad3)")
+  (net 160 "Net-(K_1-Pad4)")
+  (net 161 "Net-(D_1-Pad1)")
+  (net 162 "Net-(D_1-Pad2)")
+  (net 163 "Net-(K_2-Pad1)")
+  (net 164 "Net-(K_2-Pad2)")
+  (net 165 "Net-(K_2-Pad3)")
+  (net 166 "Net-(K_2-Pad4)")
+  (net 167 "Net-(D_2-Pad1)")
+  (net 168 "Net-(D_2-Pad2)")
+  (net 169 "Net-(K_3-Pad1)")
+  (net 170 "Net-(K_3-Pad2)")
+  (net 171 "Net-(K_3-Pad3)")
+  (net 172 "Net-(K_3-Pad4)")
+  (net 173 "Net-(D_3-Pad1)")
+  (net 174 "Net-(D_3-Pad2)")
+  (net 175 "Net-(K_4-Pad1)")
+  (net 176 "Net-(K_4-Pad2)")
+  (net 177 "Net-(K_4-Pad3)")
+  (net 178 "Net-(K_4-Pad4)")
+  (net 179 "Net-(D_4-Pad1)")
+  (net 180 "Net-(D_4-Pad2)")
+  (net 181 "Net-(K_5-Pad1)")
+  (net 182 "Net-(K_5-Pad2)")
+  (net 183 "Net-(K_5-Pad3)")
+  (net 184 "Net-(K_5-Pad4)")
+  (net 185 "Net-(D_5-Pad1)")
+  (net 186 "Net-(D_5-Pad2)")
+  (net 187 "Net-(K_6-Pad1)")
+  (net 188 "Net-(K_6-Pad2)")
+  (net 189 "Net-(K_6-Pad3)")
+  (net 190 "Net-(K_6-Pad4)")
+  (net 191 "Net-(D_6-Pad1)")
+  (net 192 "Net-(D_6-Pad2)")
+  (net 193 "Net-(K_7-Pad1)")
+  (net 194 "Net-(K_7-Pad2)")
+  (net 195 "Net-(K_7-Pad3)")
+  (net 196 "Net-(K_7-Pad4)")
+  (net 197 "Net-(D_7-Pad1)")
+  (net 198 "Net-(D_7-Pad2)")
+  (net 199 "Net-(K_8-Pad1)")
+  (net 200 "Net-(K_8-Pad2)")
+  (net 201 "Net-(K_8-Pad3)")
+  (net 202 "Net-(K_8-Pad4)")
+  (net 203 "Net-(D_8-Pad1)")
+  (net 204 "Net-(D_8-Pad2)")
+  (net 205 "Net-(K_9-Pad1)")
+  (net 206 "Net-(K_9-Pad2)")
+  (net 207 "Net-(K_9-Pad3)")
+  (net 208 "Net-(K_9-Pad4)")
+  (net 209 "Net-(D_9-Pad1)")
+  (net 210 "Net-(D_9-Pad2)")
   (net 211 "Net-(K_0-Pad1)")
   (net 212 "Net-(K_0-Pad2)")
   (net 213 "Net-(K_0-Pad3)")
@@ -576,12 +576,12 @@
   (net 484 "Net-(K_←-Pad4)")
   (net 485 "Net-(D_←-Pad1)")
   (net 486 "Net-(D_←-Pad2)")
-  (net 487 "Net-(K_13-Pad1)")
-  (net 488 "Net-(K_13-Pad2)")
-  (net 489 "Net-(K_13-Pad3)")
-  (net 490 "Net-(K_13-Pad4)")
-  (net 491 "Net-(D_13-Pad1)")
-  (net 492 "Net-(D_13-Pad2)")
+  (net 487 "Net-(K_10-Pad1)")
+  (net 488 "Net-(K_10-Pad2)")
+  (net 489 "Net-(K_10-Pad3)")
+  (net 490 "Net-(K_10-Pad4)")
+  (net 491 "Net-(D_10-Pad1)")
+  (net 492 "Net-(D_10-Pad2)")
   (net 493 "Net-(K_→-Pad1)")
   (net 494 "Net-(K_→-Pad2)")
   (net 495 "Net-(K_→-Pad3)")
@@ -708,12 +708,12 @@
   (net 616 "Net-(K_ALT-Pad4)")
   (net 617 "Net-(D_ALT-Pad1)")
   (net 618 "Net-(D_ALT-Pad2)")
-  (net 619 "Net-(K_14-Pad1)")
-  (net 620 "Net-(K_14-Pad2)")
-  (net 621 "Net-(K_14-Pad3)")
-  (net 622 "Net-(K_14-Pad4)")
-  (net 623 "Net-(D_14-Pad1)")
-  (net 624 "Net-(D_14-Pad2)")
+  (net 619 "Net-(K_-Pad1)")
+  (net 620 "Net-(K_-Pad2)")
+  (net 621 "Net-(K_-Pad3)")
+  (net 622 "Net-(K_-Pad4)")
+  (net 623 "Net-(D_-Pad1)")
+  (net 624 "Net-(D_-Pad2)")
   (net 625 "Net-(K_ALT1-Pad1)")
   (net 626 "Net-(K_ALT1-Pad2)")
   (net 627 "Net-(K_ALT1-Pad3)")
@@ -768,84 +768,84 @@
   (net 676 "Net-(K_DEL-Pad4)")
   (net 677 "Net-(D_DEL-Pad1)")
   (net 678 "Net-(D_DEL-Pad2)")
-  (net 679 "Net-(C15-Pad1)")
-  (net 680 "Net-(C15-Pad2)")
-  (net 681 "Net-(C16-Pad1)")
-  (net 682 "Net-(C16-Pad2)")
-  (net 683 "Net-(X3-Pad1)")
-  (net 684 "Net-(X3-Pad2)")
-  (net 685 "Net-(X3-Pad3)")
-  (net 686 "Net-(X3-Pad4)")
-  (net 687 "Net-(R9-Pad1)")
-  (net 688 "Net-(R9-Pad2)")
-  (net 689 "Net-(R3-Pad1)")
-  (net 690 "Net-(R3-Pad2)")
-  (net 691 "Net-(R10-Pad1)")
-  (net 692 "Net-(R10-Pad2)")
-  (net 693 "Net-(R11-Pad1)")
-  (net 694 "Net-(R11-Pad2)")
-  (net 695 "Net-(R12-Pad1)")
-  (net 696 "Net-(R12-Pad2)")
-  (net 697 "Net-(USB3-Pad1)")
-  (net 698 "Net-(USB3-Pad2)")
-  (net 699 "Net-(USB3-Pad3)")
-  (net 700 "Net-(USB3-Pad4)")
-  (net 701 "Net-(USB3-Pad5)")
-  (net 702 "Net-(USB3-Pad6)")
-  (net 703 "Net-(C17-Pad1)")
-  (net 704 "Net-(C17-Pad2)")
-  (net 705 "Net-(U3-Pad1)")
-  (net 706 "Net-(U3-Pad2)")
-  (net 707 "Net-(U3-Pad3)")
-  (net 708 "Net-(U3-Pad4)")
-  (net 709 "Net-(U3-Pad5)")
-  (net 710 "Net-(U3-Pad6)")
-  (net 711 "Net-(U3-Pad7)")
-  (net 712 "Net-(U3-Pad8)")
-  (net 713 "Net-(U3-Pad9)")
-  (net 714 "Net-(U3-Pad10)")
-  (net 715 "Net-(U3-Pad11)")
-  (net 716 "Net-(U3-Pad12)")
-  (net 717 "Net-(U3-Pad13)")
-  (net 718 "Net-(U3-Pad14)")
-  (net 719 "Net-(U3-Pad15)")
-  (net 720 "Net-(U3-Pad16)")
-  (net 721 "Net-(U3-Pad17)")
-  (net 722 "Net-(U3-Pad18)")
-  (net 723 "Net-(U3-Pad19)")
-  (net 724 "Net-(U3-Pad20)")
-  (net 725 "Net-(U3-Pad21)")
-  (net 726 "Net-(U3-Pad22)")
-  (net 727 "Net-(U3-Pad23)")
-  (net 728 "Net-(U3-Pad24)")
-  (net 729 "Net-(U3-Pad25)")
-  (net 730 "Net-(U3-Pad26)")
-  (net 731 "Net-(U3-Pad27)")
-  (net 732 "Net-(U3-Pad28)")
-  (net 733 "Net-(U3-Pad29)")
-  (net 734 "Net-(U3-Pad30)")
-  (net 735 "Net-(U3-Pad31)")
-  (net 736 "Net-(U3-Pad32)")
-  (net 737 "Net-(U3-Pad33)")
-  (net 738 "Net-(U3-Pad34)")
-  (net 739 "Net-(U3-Pad35)")
-  (net 740 "Net-(U3-Pad36)")
-  (net 741 "Net-(U3-Pad37)")
-  (net 742 "Net-(U3-Pad38)")
-  (net 743 "Net-(U3-Pad39)")
-  (net 744 "Net-(U3-Pad40)")
-  (net 745 "Net-(U3-Pad41)")
-  (net 746 "Net-(U3-Pad42)")
-  (net 747 "Net-(U3-Pad43)")
-  (net 748 "Net-(U3-Pad44)")
-  (net 749 "Net-(C18-Pad1)")
-  (net 750 "Net-(C18-Pad2)")
-  (net 751 "Net-(C19-Pad1)")
-  (net 752 "Net-(C19-Pad2)")
-  (net 753 "Net-(C20-Pad1)")
-  (net 754 "Net-(C20-Pad2)")
-  (net 755 "Net-(C21-Pad1)")
-  (net 756 "Net-(C21-Pad2)")
+  (net 679 "Net-(C8-Pad1)")
+  (net 680 "Net-(C8-Pad2)")
+  (net 681 "Net-(C9-Pad1)")
+  (net 682 "Net-(C9-Pad2)")
+  (net 683 "Net-(X2-Pad1)")
+  (net 684 "Net-(X2-Pad2)")
+  (net 685 "Net-(X2-Pad3)")
+  (net 686 "Net-(X2-Pad4)")
+  (net 687 "Net-(R5-Pad1)")
+  (net 688 "Net-(R5-Pad2)")
+  (net 689 "Net-(R2-Pad1)")
+  (net 690 "Net-(R2-Pad2)")
+  (net 691 "Net-(R6-Pad1)")
+  (net 692 "Net-(R6-Pad2)")
+  (net 693 "Net-(R7-Pad1)")
+  (net 694 "Net-(R7-Pad2)")
+  (net 695 "Net-(R8-Pad1)")
+  (net 696 "Net-(R8-Pad2)")
+  (net 697 "Net-(USB2-Pad1)")
+  (net 698 "Net-(USB2-Pad2)")
+  (net 699 "Net-(USB2-Pad3)")
+  (net 700 "Net-(USB2-Pad4)")
+  (net 701 "Net-(USB2-Pad5)")
+  (net 702 "Net-(USB2-Pad6)")
+  (net 703 "Net-(C10-Pad1)")
+  (net 704 "Net-(C10-Pad2)")
+  (net 705 "Net-(U2-Pad1)")
+  (net 706 "Net-(U2-Pad2)")
+  (net 707 "Net-(U2-Pad3)")
+  (net 708 "Net-(U2-Pad4)")
+  (net 709 "Net-(U2-Pad5)")
+  (net 710 "Net-(U2-Pad6)")
+  (net 711 "Net-(U2-Pad7)")
+  (net 712 "Net-(U2-Pad8)")
+  (net 713 "Net-(U2-Pad9)")
+  (net 714 "Net-(U2-Pad10)")
+  (net 715 "Net-(U2-Pad11)")
+  (net 716 "Net-(U2-Pad12)")
+  (net 717 "Net-(U2-Pad13)")
+  (net 718 "Net-(U2-Pad14)")
+  (net 719 "Net-(U2-Pad15)")
+  (net 720 "Net-(U2-Pad16)")
+  (net 721 "Net-(U2-Pad17)")
+  (net 722 "Net-(U2-Pad18)")
+  (net 723 "Net-(U2-Pad19)")
+  (net 724 "Net-(U2-Pad20)")
+  (net 725 "Net-(U2-Pad21)")
+  (net 726 "Net-(U2-Pad22)")
+  (net 727 "Net-(U2-Pad23)")
+  (net 728 "Net-(U2-Pad24)")
+  (net 729 "Net-(U2-Pad25)")
+  (net 730 "Net-(U2-Pad26)")
+  (net 731 "Net-(U2-Pad27)")
+  (net 732 "Net-(U2-Pad28)")
+  (net 733 "Net-(U2-Pad29)")
+  (net 734 "Net-(U2-Pad30)")
+  (net 735 "Net-(U2-Pad31)")
+  (net 736 "Net-(U2-Pad32)")
+  (net 737 "Net-(U2-Pad33)")
+  (net 738 "Net-(U2-Pad34)")
+  (net 739 "Net-(U2-Pad35)")
+  (net 740 "Net-(U2-Pad36)")
+  (net 741 "Net-(U2-Pad37)")
+  (net 742 "Net-(U2-Pad38)")
+  (net 743 "Net-(U2-Pad39)")
+  (net 744 "Net-(U2-Pad40)")
+  (net 745 "Net-(U2-Pad41)")
+  (net 746 "Net-(U2-Pad42)")
+  (net 747 "Net-(U2-Pad43)")
+  (net 748 "Net-(U2-Pad44)")
+  (net 749 "Net-(C11-Pad1)")
+  (net 750 "Net-(C11-Pad2)")
+  (net 751 "Net-(C12-Pad1)")
+  (net 752 "Net-(C12-Pad2)")
+  (net 753 "Net-(C13-Pad1)")
+  (net 754 "Net-(C13-Pad2)")
+  (net 755 "Net-(C14-Pad1)")
+  (net 756 "Net-(C14-Pad2)")
   
   (net_class Default "This is the default net class."
     (clearance 0.2)
@@ -981,12 +981,36 @@
     (add_net "Net-(K_BREAK-Pad4)")
     (add_net "Net-(D_BREAK-Pad1)")
     (add_net "Net-(D_BREAK-Pad2)")
-    (add_net "Net-(K_-Pad1)")
-    (add_net "Net-(K_-Pad2)")
-    (add_net "Net-(K_-Pad3)")
-    (add_net "Net-(K_-Pad4)")
-    (add_net "Net-(D_-Pad1)")
-    (add_net "Net-(D_-Pad2)")
+    (add_net "Net-(K_LEDTOG-Pad1)")
+    (add_net "Net-(K_LEDTOG-Pad2)")
+    (add_net "Net-(K_LEDTOG-Pad3)")
+    (add_net "Net-(K_LEDTOG-Pad4)")
+    (add_net "Net-(D_LEDTOG-Pad1)")
+    (add_net "Net-(D_LEDTOG-Pad2)")
+    (add_net "Net-(K_PREV-Pad1)")
+    (add_net "Net-(K_PREV-Pad2)")
+    (add_net "Net-(K_PREV-Pad3)")
+    (add_net "Net-(K_PREV-Pad4)")
+    (add_net "Net-(D_PREV-Pad1)")
+    (add_net "Net-(D_PREV-Pad2)")
+    (add_net "Net-(K_PLAY/PAUSE-Pad1)")
+    (add_net "Net-(K_PLAY/PAUSE-Pad2)")
+    (add_net "Net-(K_PLAY/PAUSE-Pad3)")
+    (add_net "Net-(K_PLAY/PAUSE-Pad4)")
+    (add_net "Net-(D_PLAY/PAUSE-Pad1)")
+    (add_net "Net-(D_PLAY/PAUSE-Pad2)")
+    (add_net "Net-(K_NEXT-Pad1)")
+    (add_net "Net-(K_NEXT-Pad2)")
+    (add_net "Net-(K_NEXT-Pad3)")
+    (add_net "Net-(K_NEXT-Pad4)")
+    (add_net "Net-(D_NEXT-Pad1)")
+    (add_net "Net-(D_NEXT-Pad2)")
+    (add_net "Net-(K_`-Pad1)")
+    (add_net "Net-(K_`-Pad2)")
+    (add_net "Net-(K_`-Pad3)")
+    (add_net "Net-(K_`-Pad4)")
+    (add_net "Net-(D_`-Pad1)")
+    (add_net "Net-(D_`-Pad2)")
     (add_net "Net-(K_1-Pad1)")
     (add_net "Net-(K_1-Pad2)")
     (add_net "Net-(K_1-Pad3)")
@@ -1005,12 +1029,6 @@
     (add_net "Net-(K_3-Pad4)")
     (add_net "Net-(D_3-Pad1)")
     (add_net "Net-(D_3-Pad2)")
-    (add_net "Net-(K_`-Pad1)")
-    (add_net "Net-(K_`-Pad2)")
-    (add_net "Net-(K_`-Pad3)")
-    (add_net "Net-(K_`-Pad4)")
-    (add_net "Net-(D_`-Pad1)")
-    (add_net "Net-(D_`-Pad2)")
     (add_net "Net-(K_4-Pad1)")
     (add_net "Net-(K_4-Pad2)")
     (add_net "Net-(K_4-Pad3)")
@@ -1047,24 +1065,6 @@
     (add_net "Net-(K_9-Pad4)")
     (add_net "Net-(D_9-Pad1)")
     (add_net "Net-(D_9-Pad2)")
-    (add_net "Net-(K_10-Pad1)")
-    (add_net "Net-(K_10-Pad2)")
-    (add_net "Net-(K_10-Pad3)")
-    (add_net "Net-(K_10-Pad4)")
-    (add_net "Net-(D_10-Pad1)")
-    (add_net "Net-(D_10-Pad2)")
-    (add_net "Net-(K_11-Pad1)")
-    (add_net "Net-(K_11-Pad2)")
-    (add_net "Net-(K_11-Pad3)")
-    (add_net "Net-(K_11-Pad4)")
-    (add_net "Net-(D_11-Pad1)")
-    (add_net "Net-(D_11-Pad2)")
-    (add_net "Net-(K_12-Pad1)")
-    (add_net "Net-(K_12-Pad2)")
-    (add_net "Net-(K_12-Pad3)")
-    (add_net "Net-(K_12-Pad4)")
-    (add_net "Net-(D_12-Pad1)")
-    (add_net "Net-(D_12-Pad2)")
     (add_net "Net-(K_0-Pad1)")
     (add_net "Net-(K_0-Pad2)")
     (add_net "Net-(K_0-Pad3)")
@@ -1341,12 +1341,12 @@
     (add_net "Net-(K_←-Pad4)")
     (add_net "Net-(D_←-Pad1)")
     (add_net "Net-(D_←-Pad2)")
-    (add_net "Net-(K_13-Pad1)")
-    (add_net "Net-(K_13-Pad2)")
-    (add_net "Net-(K_13-Pad3)")
-    (add_net "Net-(K_13-Pad4)")
-    (add_net "Net-(D_13-Pad1)")
-    (add_net "Net-(D_13-Pad2)")
+    (add_net "Net-(K_10-Pad1)")
+    (add_net "Net-(K_10-Pad2)")
+    (add_net "Net-(K_10-Pad3)")
+    (add_net "Net-(K_10-Pad4)")
+    (add_net "Net-(D_10-Pad1)")
+    (add_net "Net-(D_10-Pad2)")
     (add_net "Net-(K_→-Pad1)")
     (add_net "Net-(K_→-Pad2)")
     (add_net "Net-(K_→-Pad3)")
@@ -1473,12 +1473,12 @@
     (add_net "Net-(K_ALT-Pad4)")
     (add_net "Net-(D_ALT-Pad1)")
     (add_net "Net-(D_ALT-Pad2)")
-    (add_net "Net-(K_14-Pad1)")
-    (add_net "Net-(K_14-Pad2)")
-    (add_net "Net-(K_14-Pad3)")
-    (add_net "Net-(K_14-Pad4)")
-    (add_net "Net-(D_14-Pad1)")
-    (add_net "Net-(D_14-Pad2)")
+    (add_net "Net-(K_-Pad1)")
+    (add_net "Net-(K_-Pad2)")
+    (add_net "Net-(K_-Pad3)")
+    (add_net "Net-(K_-Pad4)")
+    (add_net "Net-(D_-Pad1)")
+    (add_net "Net-(D_-Pad2)")
     (add_net "Net-(K_ALT1-Pad1)")
     (add_net "Net-(K_ALT1-Pad2)")
     (add_net "Net-(K_ALT1-Pad3)")
@@ -1533,87 +1533,87 @@
     (add_net "Net-(K_DEL-Pad4)")
     (add_net "Net-(D_DEL-Pad1)")
     (add_net "Net-(D_DEL-Pad2)")
-    (add_net "Net-(C15-Pad1)")
-    (add_net "Net-(C15-Pad2)")
-    (add_net "Net-(C16-Pad1)")
-    (add_net "Net-(C16-Pad2)")
-    (add_net "Net-(X3-Pad1)")
-    (add_net "Net-(X3-Pad2)")
-    (add_net "Net-(X3-Pad3)")
-    (add_net "Net-(X3-Pad4)")
-    (add_net "Net-(R9-Pad1)")
-    (add_net "Net-(R9-Pad2)")
-    (add_net "Net-(R3-Pad1)")
-    (add_net "Net-(R3-Pad2)")
-    (add_net "Net-(R10-Pad1)")
-    (add_net "Net-(R10-Pad2)")
-    (add_net "Net-(R11-Pad1)")
-    (add_net "Net-(R11-Pad2)")
-    (add_net "Net-(R12-Pad1)")
-    (add_net "Net-(R12-Pad2)")
-    (add_net "Net-(USB3-Pad1)")
-    (add_net "Net-(USB3-Pad2)")
-    (add_net "Net-(USB3-Pad3)")
-    (add_net "Net-(USB3-Pad4)")
-    (add_net "Net-(USB3-Pad5)")
-    (add_net "Net-(USB3-Pad6)")
-    (add_net "Net-(C17-Pad1)")
-    (add_net "Net-(C17-Pad2)")
-    (add_net "Net-(U3-Pad1)")
-    (add_net "Net-(U3-Pad2)")
-    (add_net "Net-(U3-Pad3)")
-    (add_net "Net-(U3-Pad4)")
-    (add_net "Net-(U3-Pad5)")
-    (add_net "Net-(U3-Pad6)")
-    (add_net "Net-(U3-Pad7)")
-    (add_net "Net-(U3-Pad8)")
-    (add_net "Net-(U3-Pad9)")
-    (add_net "Net-(U3-Pad10)")
-    (add_net "Net-(U3-Pad11)")
-    (add_net "Net-(U3-Pad12)")
-    (add_net "Net-(U3-Pad13)")
-    (add_net "Net-(U3-Pad14)")
-    (add_net "Net-(U3-Pad15)")
-    (add_net "Net-(U3-Pad16)")
-    (add_net "Net-(U3-Pad17)")
-    (add_net "Net-(U3-Pad18)")
-    (add_net "Net-(U3-Pad19)")
-    (add_net "Net-(U3-Pad20)")
-    (add_net "Net-(U3-Pad21)")
-    (add_net "Net-(U3-Pad22)")
-    (add_net "Net-(U3-Pad23)")
-    (add_net "Net-(U3-Pad24)")
-    (add_net "Net-(U3-Pad25)")
-    (add_net "Net-(U3-Pad26)")
-    (add_net "Net-(U3-Pad27)")
-    (add_net "Net-(U3-Pad28)")
-    (add_net "Net-(U3-Pad29)")
-    (add_net "Net-(U3-Pad30)")
-    (add_net "Net-(U3-Pad31)")
-    (add_net "Net-(U3-Pad32)")
-    (add_net "Net-(U3-Pad33)")
-    (add_net "Net-(U3-Pad34)")
-    (add_net "Net-(U3-Pad35)")
-    (add_net "Net-(U3-Pad36)")
-    (add_net "Net-(U3-Pad37)")
-    (add_net "Net-(U3-Pad38)")
-    (add_net "Net-(U3-Pad39)")
-    (add_net "Net-(U3-Pad40)")
-    (add_net "Net-(U3-Pad41)")
-    (add_net "Net-(U3-Pad42)")
-    (add_net "Net-(U3-Pad43)")
-    (add_net "Net-(U3-Pad44)")
-    (add_net "Net-(C18-Pad1)")
-    (add_net "Net-(C18-Pad2)")
-    (add_net "Net-(C19-Pad1)")
-    (add_net "Net-(C19-Pad2)")
-    (add_net "Net-(C20-Pad1)")
-    (add_net "Net-(C20-Pad2)")
-    (add_net "Net-(C21-Pad1)")
-    (add_net "Net-(C21-Pad2)")
+    (add_net "Net-(C8-Pad1)")
+    (add_net "Net-(C8-Pad2)")
+    (add_net "Net-(C9-Pad1)")
+    (add_net "Net-(C9-Pad2)")
+    (add_net "Net-(X2-Pad1)")
+    (add_net "Net-(X2-Pad2)")
+    (add_net "Net-(X2-Pad3)")
+    (add_net "Net-(X2-Pad4)")
+    (add_net "Net-(R5-Pad1)")
+    (add_net "Net-(R5-Pad2)")
+    (add_net "Net-(R2-Pad1)")
+    (add_net "Net-(R2-Pad2)")
+    (add_net "Net-(R6-Pad1)")
+    (add_net "Net-(R6-Pad2)")
+    (add_net "Net-(R7-Pad1)")
+    (add_net "Net-(R7-Pad2)")
+    (add_net "Net-(R8-Pad1)")
+    (add_net "Net-(R8-Pad2)")
+    (add_net "Net-(USB2-Pad1)")
+    (add_net "Net-(USB2-Pad2)")
+    (add_net "Net-(USB2-Pad3)")
+    (add_net "Net-(USB2-Pad4)")
+    (add_net "Net-(USB2-Pad5)")
+    (add_net "Net-(USB2-Pad6)")
+    (add_net "Net-(C10-Pad1)")
+    (add_net "Net-(C10-Pad2)")
+    (add_net "Net-(U2-Pad1)")
+    (add_net "Net-(U2-Pad2)")
+    (add_net "Net-(U2-Pad3)")
+    (add_net "Net-(U2-Pad4)")
+    (add_net "Net-(U2-Pad5)")
+    (add_net "Net-(U2-Pad6)")
+    (add_net "Net-(U2-Pad7)")
+    (add_net "Net-(U2-Pad8)")
+    (add_net "Net-(U2-Pad9)")
+    (add_net "Net-(U2-Pad10)")
+    (add_net "Net-(U2-Pad11)")
+    (add_net "Net-(U2-Pad12)")
+    (add_net "Net-(U2-Pad13)")
+    (add_net "Net-(U2-Pad14)")
+    (add_net "Net-(U2-Pad15)")
+    (add_net "Net-(U2-Pad16)")
+    (add_net "Net-(U2-Pad17)")
+    (add_net "Net-(U2-Pad18)")
+    (add_net "Net-(U2-Pad19)")
+    (add_net "Net-(U2-Pad20)")
+    (add_net "Net-(U2-Pad21)")
+    (add_net "Net-(U2-Pad22)")
+    (add_net "Net-(U2-Pad23)")
+    (add_net "Net-(U2-Pad24)")
+    (add_net "Net-(U2-Pad25)")
+    (add_net "Net-(U2-Pad26)")
+    (add_net "Net-(U2-Pad27)")
+    (add_net "Net-(U2-Pad28)")
+    (add_net "Net-(U2-Pad29)")
+    (add_net "Net-(U2-Pad30)")
+    (add_net "Net-(U2-Pad31)")
+    (add_net "Net-(U2-Pad32)")
+    (add_net "Net-(U2-Pad33)")
+    (add_net "Net-(U2-Pad34)")
+    (add_net "Net-(U2-Pad35)")
+    (add_net "Net-(U2-Pad36)")
+    (add_net "Net-(U2-Pad37)")
+    (add_net "Net-(U2-Pad38)")
+    (add_net "Net-(U2-Pad39)")
+    (add_net "Net-(U2-Pad40)")
+    (add_net "Net-(U2-Pad41)")
+    (add_net "Net-(U2-Pad42)")
+    (add_net "Net-(U2-Pad43)")
+    (add_net "Net-(U2-Pad44)")
+    (add_net "Net-(C11-Pad1)")
+    (add_net "Net-(C11-Pad2)")
+    (add_net "Net-(C12-Pad1)")
+    (add_net "Net-(C12-Pad2)")
+    (add_net "Net-(C13-Pad1)")
+    (add_net "Net-(C13-Pad2)")
+    (add_net "Net-(C14-Pad1)")
+    (add_net "Net-(C14-Pad2)")
     )
 
-  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 66285A26)
+  (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB4A9DA)
   (at
   29.525
   29.525
@@ -1660,7 +1660,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 66289C92)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB44C40)
     (at
     20.5
     30.025
@@ -1695,7 +1695,7 @@
       (net 36 "Net-(D_ESC-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 6628186A)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB45046)
   (at
   67.625
   29.525
@@ -1742,7 +1742,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 662811C7)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB40EFE)
     (at
     58.6
     30.025
@@ -1777,7 +1777,7 @@
       (net 42 "Net-(D_F1-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 6628D971)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB44D5B)
   (at
   86.675
   29.525
@@ -1824,7 +1824,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 6628E23E)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB46930)
     (at
     77.65
     30.025
@@ -1859,7 +1859,7 @@
       (net 48 "Net-(D_F2-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 66282F08)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB4BB16)
   (at
   105.725
   29.525
@@ -1906,7 +1906,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 66280683)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB4DC4E)
     (at
     96.7
     30.025
@@ -1941,7 +1941,7 @@
       (net 54 "Net-(D_F3-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 6628C64D)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB4E2AA)
   (at
   124.775
   29.525
@@ -1988,7 +1988,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 6628568D)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB49CA4)
     (at
     115.75
     30.025
@@ -2023,7 +2023,7 @@
       (net 60 "Net-(D_F4-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 6628B2B5)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB4F608)
   (at
   153.35
   29.525
@@ -2070,7 +2070,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 66283EB7)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB4464C)
     (at
     144.325
     30.025
@@ -2105,7 +2105,7 @@
       (net 66 "Net-(D_F5-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 6628DEDA)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB4511C)
   (at
   172.4
   29.525
@@ -2152,7 +2152,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 6628AAB8)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB48B80)
     (at
     163.375
     30.025
@@ -2187,7 +2187,7 @@
       (net 72 "Net-(D_F6-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 662839D6)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB43791)
   (at
   191.45
   29.525
@@ -2234,7 +2234,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 66288A53)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB441F3)
     (at
     182.425
     30.025
@@ -2269,7 +2269,7 @@
       (net 78 "Net-(D_F7-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 6628F2C8)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB49F75)
   (at
   210.5
   29.525
@@ -2316,7 +2316,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 6628E6D6)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB49C51)
     (at
     201.475
     30.025
@@ -2351,7 +2351,7 @@
       (net 84 "Net-(D_F8-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 6628E6A2)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB4C22C)
   (at
   239.075
   29.525
@@ -2398,7 +2398,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 66285095)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB48680)
     (at
     230.05
     30.025
@@ -2433,7 +2433,7 @@
       (net 90 "Net-(D_F9-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 66288E38)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB4F411)
   (at
   258.125
   29.525
@@ -2480,7 +2480,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 66281A9A)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB4D6C7)
     (at
     249.1
     30.025
@@ -2515,7 +2515,7 @@
       (net 96 "Net-(D_F10-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 6628C0F6)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB46216)
   (at
   277.175
   29.525
@@ -2562,7 +2562,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 66282FC9)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB413A5)
     (at
     268.15
     30.025
@@ -2597,7 +2597,7 @@
       (net 102 "Net-(D_F11-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 66280B12)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB41189)
   (at
   296.225
   29.525
@@ -2644,7 +2644,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 66285DF1)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB4B9EA)
     (at
     287.2
     30.025
@@ -2679,7 +2679,7 @@
       (net 108 "Net-(D_F12-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 6628ACDB)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB45548)
   (at
   320.0375
   29.525
@@ -2726,7 +2726,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 66289922)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB4BEA2)
     (at
     311.0125
     30.025
@@ -2761,7 +2761,7 @@
       (net 114 "Net-(D_PRTSC-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 6628A2EB)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB475E8)
   (at
   339.0875
   29.525
@@ -2808,7 +2808,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 6628662B)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB4A473)
     (at
     330.0625
     30.025
@@ -2843,7 +2843,7 @@
       (net 120 "Net-(D_SCROLL_LOCK-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 66287867)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB43984)
   (at
   358.1375
   29.525
@@ -2890,7 +2890,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 6628B3F6)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB4F4C5)
     (at
     349.1125
     30.025
@@ -2925,12 +2925,12 @@
       (net 126 "Net-(D_BREAK-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 6628E9C2)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB4F4BC)
   (at
   381.95
   29.525
   )
-  (fp_text reference K_ (at 0 3.175) (layer Dwgs.User)
+  (fp_text reference K_LEDTOG (at 0 3.175) (layer Dwgs.User)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value KEYSW (at 0 -7.9375) (layer Dwgs.User)
@@ -2949,21 +2949,21 @@
   (fp_line (start 9.525 9.525) (end -9.525 9.525) (layer Dwgs.User) (width 0.15))
   (fp_line (start -9.525 9.525) (end -9.525 -9.525) (layer Dwgs.User) (width 0.15))
   (pad 1 thru_hole circle (at -2.5 -4) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 127 "Net-(K_-Pad1)"))
+    (net 127 "Net-(K_LEDTOG-Pad1)"))
   (pad 1 thru_hole oval (at -3.81 -2.54 48.0996) (size 4.211556 2.25) (drill 1.47 (offset 0.980778 0)) (layers *.Cu B.Mask)
-    (net 127 "Net-(K_-Pad1)"))
+    (net 127 "Net-(K_LEDTOG-Pad1)"))
   (pad 2 thru_hole oval (at 2.5 -4.5 86.0548) (size 2.831378 2.25) (drill 1.47 (offset 0.290689 0)) (layers *.Cu B.Mask)
-    (net 132 "Net-(D_-Pad2)"))
+    (net 132 "Net-(D_LEDTOG-Pad2)"))
   (pad 2 thru_hole circle (at 2.54 -5.08) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 132 "Net-(D_-Pad2)"))
+    (net 132 "Net-(D_LEDTOG-Pad2)"))
   (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
 
   (pad 3 thru_hole circle (at -1.27 5.08) (size 1.905 1.905) (drill 1.04) (layers *.Cu B.Mask)
-    (net 129 "Net-(K_-Pad3)"))
+    (net 129 "Net-(K_LEDTOG-Pad3)"))
   (pad 4 thru_hole rect (at 1.27 5.08) (size 1.905 1.905) (drill 1.04) (layers *.Cu B.Mask)
-    (net 130 "Net-(K_-Pad4)"))
+    (net 130 "Net-(K_LEDTOG-Pad4)"))
   (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
@@ -2972,13 +2972,13 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 66285F09)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB4AC3A)
     (at
     372.925
     30.025
     90)
     (attr smd)
-    (fp_text reference D_ (at 0 1.925 90) (layer F.SilkS)
+    (fp_text reference D_LEDTOG (at 0 1.925 90) (layer F.SilkS)
       (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
     )
     (fp_text value D (at 0 -1.925 90) (layer F.SilkS) hide
@@ -3000,19 +3000,19 @@
     (pad 1 thru_hole rect (at -3.9 0 90) (size 1.6 1.6) (drill 0.7) (layers *.Cu *.Mask F.SilkS)
       (net 19 "/col16"))
     (pad 2 smd rect (at 1.575 0 90) (size 1.2 1.2) (layers F.Cu F.Paste F.Mask)
-      (net 132 "Net-(D_-Pad2)"))
+      (net 132 "Net-(D_LEDTOG-Pad2)"))
     (pad 2 smd rect (at 2.7 0 90) (size 2.5 0.5) (layers F.Cu)
-      (net 132 "Net-(D_-Pad2)"))
+      (net 132 "Net-(D_LEDTOG-Pad2)"))
     (pad 2 thru_hole circle (at 3.9 0 90) (size 1.6 1.6) (drill 0.7) (layers *.Cu *.Mask F.SilkS)
-      (net 132 "Net-(D_-Pad2)"))
+      (net 132 "Net-(D_LEDTOG-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 6628606A)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB4B63E)
   (at
   401
   29.525
   )
-  (fp_text reference K_1 (at 0 3.175) (layer Dwgs.User)
+  (fp_text reference K_PREV (at 0 3.175) (layer Dwgs.User)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value KEYSW (at 0 -7.9375) (layer Dwgs.User)
@@ -3031,21 +3031,21 @@
   (fp_line (start 9.525 9.525) (end -9.525 9.525) (layer Dwgs.User) (width 0.15))
   (fp_line (start -9.525 9.525) (end -9.525 -9.525) (layer Dwgs.User) (width 0.15))
   (pad 1 thru_hole circle (at -2.5 -4) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 133 "Net-(K_1-Pad1)"))
+    (net 133 "Net-(K_PREV-Pad1)"))
   (pad 1 thru_hole oval (at -3.81 -2.54 48.0996) (size 4.211556 2.25) (drill 1.47 (offset 0.980778 0)) (layers *.Cu B.Mask)
-    (net 133 "Net-(K_1-Pad1)"))
+    (net 133 "Net-(K_PREV-Pad1)"))
   (pad 2 thru_hole oval (at 2.5 -4.5 86.0548) (size 2.831378 2.25) (drill 1.47 (offset 0.290689 0)) (layers *.Cu B.Mask)
-    (net 138 "Net-(D_1-Pad2)"))
+    (net 138 "Net-(D_PREV-Pad2)"))
   (pad 2 thru_hole circle (at 2.54 -5.08) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 138 "Net-(D_1-Pad2)"))
+    (net 138 "Net-(D_PREV-Pad2)"))
   (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
 
   (pad 3 thru_hole circle (at -1.27 5.08) (size 1.905 1.905) (drill 1.04) (layers *.Cu B.Mask)
-    (net 135 "Net-(K_1-Pad3)"))
+    (net 135 "Net-(K_PREV-Pad3)"))
   (pad 4 thru_hole rect (at 1.27 5.08) (size 1.905 1.905) (drill 1.04) (layers *.Cu B.Mask)
-    (net 136 "Net-(K_1-Pad4)"))
+    (net 136 "Net-(K_PREV-Pad4)"))
   (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
@@ -3054,13 +3054,13 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 66287033)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB4F75A)
     (at
     391.975
     30.025
     90)
     (attr smd)
-    (fp_text reference D_1 (at 0 1.925 90) (layer F.SilkS)
+    (fp_text reference D_PREV (at 0 1.925 90) (layer F.SilkS)
       (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
     )
     (fp_text value D (at 0 -1.925 90) (layer F.SilkS) hide
@@ -3082,19 +3082,19 @@
     (pad 1 thru_hole rect (at -3.9 0 90) (size 1.6 1.6) (drill 0.7) (layers *.Cu *.Mask F.SilkS)
       (net 20 "/col17"))
     (pad 2 smd rect (at 1.575 0 90) (size 1.2 1.2) (layers F.Cu F.Paste F.Mask)
-      (net 138 "Net-(D_1-Pad2)"))
+      (net 138 "Net-(D_PREV-Pad2)"))
     (pad 2 smd rect (at 2.7 0 90) (size 2.5 0.5) (layers F.Cu)
-      (net 138 "Net-(D_1-Pad2)"))
+      (net 138 "Net-(D_PREV-Pad2)"))
     (pad 2 thru_hole circle (at 3.9 0 90) (size 1.6 1.6) (drill 0.7) (layers *.Cu *.Mask F.SilkS)
-      (net 138 "Net-(D_1-Pad2)"))
+      (net 138 "Net-(D_PREV-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 66286D46)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB4CC38)
   (at
   420.05
   29.525
   )
-  (fp_text reference K_2 (at 0 3.175) (layer Dwgs.User)
+  (fp_text reference K_PLAY/PAUSE (at 0 3.175) (layer Dwgs.User)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value KEYSW (at 0 -7.9375) (layer Dwgs.User)
@@ -3113,21 +3113,21 @@
   (fp_line (start 9.525 9.525) (end -9.525 9.525) (layer Dwgs.User) (width 0.15))
   (fp_line (start -9.525 9.525) (end -9.525 -9.525) (layer Dwgs.User) (width 0.15))
   (pad 1 thru_hole circle (at -2.5 -4) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 139 "Net-(K_2-Pad1)"))
+    (net 139 "Net-(K_PLAY/PAUSE-Pad1)"))
   (pad 1 thru_hole oval (at -3.81 -2.54 48.0996) (size 4.211556 2.25) (drill 1.47 (offset 0.980778 0)) (layers *.Cu B.Mask)
-    (net 139 "Net-(K_2-Pad1)"))
+    (net 139 "Net-(K_PLAY/PAUSE-Pad1)"))
   (pad 2 thru_hole oval (at 2.5 -4.5 86.0548) (size 2.831378 2.25) (drill 1.47 (offset 0.290689 0)) (layers *.Cu B.Mask)
-    (net 144 "Net-(D_2-Pad2)"))
+    (net 144 "Net-(D_PLAY/PAUSE-Pad2)"))
   (pad 2 thru_hole circle (at 2.54 -5.08) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 144 "Net-(D_2-Pad2)"))
+    (net 144 "Net-(D_PLAY/PAUSE-Pad2)"))
   (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
 
   (pad 3 thru_hole circle (at -1.27 5.08) (size 1.905 1.905) (drill 1.04) (layers *.Cu B.Mask)
-    (net 141 "Net-(K_2-Pad3)"))
+    (net 141 "Net-(K_PLAY/PAUSE-Pad3)"))
   (pad 4 thru_hole rect (at 1.27 5.08) (size 1.905 1.905) (drill 1.04) (layers *.Cu B.Mask)
-    (net 142 "Net-(K_2-Pad4)"))
+    (net 142 "Net-(K_PLAY/PAUSE-Pad4)"))
   (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
@@ -3136,13 +3136,13 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 66285475)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB41B35)
     (at
     411.025
     30.025
     90)
     (attr smd)
-    (fp_text reference D_2 (at 0 1.925 90) (layer F.SilkS)
+    (fp_text reference D_PLAY/PAUSE (at 0 1.925 90) (layer F.SilkS)
       (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
     )
     (fp_text value D (at 0 -1.925 90) (layer F.SilkS) hide
@@ -3164,19 +3164,19 @@
     (pad 1 thru_hole rect (at -3.9 0 90) (size 1.6 1.6) (drill 0.7) (layers *.Cu *.Mask F.SilkS)
       (net 21 "/col18"))
     (pad 2 smd rect (at 1.575 0 90) (size 1.2 1.2) (layers F.Cu F.Paste F.Mask)
-      (net 144 "Net-(D_2-Pad2)"))
+      (net 144 "Net-(D_PLAY/PAUSE-Pad2)"))
     (pad 2 smd rect (at 2.7 0 90) (size 2.5 0.5) (layers F.Cu)
-      (net 144 "Net-(D_2-Pad2)"))
+      (net 144 "Net-(D_PLAY/PAUSE-Pad2)"))
     (pad 2 thru_hole circle (at 3.9 0 90) (size 1.6 1.6) (drill 0.7) (layers *.Cu *.Mask F.SilkS)
-      (net 144 "Net-(D_2-Pad2)"))
+      (net 144 "Net-(D_PLAY/PAUSE-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 66285222)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB481C7)
   (at
   439.1
   29.525
   )
-  (fp_text reference K_3 (at 0 3.175) (layer Dwgs.User)
+  (fp_text reference K_NEXT (at 0 3.175) (layer Dwgs.User)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value KEYSW (at 0 -7.9375) (layer Dwgs.User)
@@ -3195,21 +3195,21 @@
   (fp_line (start 9.525 9.525) (end -9.525 9.525) (layer Dwgs.User) (width 0.15))
   (fp_line (start -9.525 9.525) (end -9.525 -9.525) (layer Dwgs.User) (width 0.15))
   (pad 1 thru_hole circle (at -2.5 -4) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 145 "Net-(K_3-Pad1)"))
+    (net 145 "Net-(K_NEXT-Pad1)"))
   (pad 1 thru_hole oval (at -3.81 -2.54 48.0996) (size 4.211556 2.25) (drill 1.47 (offset 0.980778 0)) (layers *.Cu B.Mask)
-    (net 145 "Net-(K_3-Pad1)"))
+    (net 145 "Net-(K_NEXT-Pad1)"))
   (pad 2 thru_hole oval (at 2.5 -4.5 86.0548) (size 2.831378 2.25) (drill 1.47 (offset 0.290689 0)) (layers *.Cu B.Mask)
-    (net 150 "Net-(D_3-Pad2)"))
+    (net 150 "Net-(D_NEXT-Pad2)"))
   (pad 2 thru_hole circle (at 2.54 -5.08) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 150 "Net-(D_3-Pad2)"))
+    (net 150 "Net-(D_NEXT-Pad2)"))
   (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
 
   (pad 3 thru_hole circle (at -1.27 5.08) (size 1.905 1.905) (drill 1.04) (layers *.Cu B.Mask)
-    (net 147 "Net-(K_3-Pad3)"))
+    (net 147 "Net-(K_NEXT-Pad3)"))
   (pad 4 thru_hole rect (at 1.27 5.08) (size 1.905 1.905) (drill 1.04) (layers *.Cu B.Mask)
-    (net 148 "Net-(K_3-Pad4)"))
+    (net 148 "Net-(K_NEXT-Pad4)"))
   (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
@@ -3218,13 +3218,13 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 662892F5)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB49086)
     (at
     430.075
     30.025
     90)
     (attr smd)
-    (fp_text reference D_3 (at 0 1.925 90) (layer F.SilkS)
+    (fp_text reference D_NEXT (at 0 1.925 90) (layer F.SilkS)
       (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
     )
     (fp_text value D (at 0 -1.925 90) (layer F.SilkS) hide
@@ -3246,14 +3246,14 @@
     (pad 1 thru_hole rect (at -3.9 0 90) (size 1.6 1.6) (drill 0.7) (layers *.Cu *.Mask F.SilkS)
       (net 22 "/col19"))
     (pad 2 smd rect (at 1.575 0 90) (size 1.2 1.2) (layers F.Cu F.Paste F.Mask)
-      (net 150 "Net-(D_3-Pad2)"))
+      (net 150 "Net-(D_NEXT-Pad2)"))
     (pad 2 smd rect (at 2.7 0 90) (size 2.5 0.5) (layers F.Cu)
-      (net 150 "Net-(D_3-Pad2)"))
+      (net 150 "Net-(D_NEXT-Pad2)"))
     (pad 2 thru_hole circle (at 3.9 0 90) (size 1.6 1.6) (drill 0.7) (layers *.Cu *.Mask F.SilkS)
-      (net 150 "Net-(D_3-Pad2)"))
+      (net 150 "Net-(D_NEXT-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 662852CE)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB42EA3)
   (at
   29.525
   58.1
@@ -3300,7 +3300,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 6628296F)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB456BD)
     (at
     20.5
     58.6
@@ -3335,9 +3335,255 @@
       (net 156 "Net-(D_`-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 6628E727)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB43A38)
   (at
   48.575
+  58.1
+  )
+  (fp_text reference K_1 (at 0 3.175) (layer Dwgs.User)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value KEYSW (at 0 -7.9375) (layer Dwgs.User)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_line (start 5 -7) (end 7 -7) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 7 -7) (end 7 -5) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 5 7) (end 7 7) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 7 7) (end 7 5) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -7 5) (end -7 7) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -7 7) (end -5 7) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -5 -7) (end -7 -7) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -7 -7) (end -7 -5) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -9.525 -9.525) (end 9.525 -9.525) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 9.525 -9.525) (end 9.525 9.525) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 9.525 9.525) (end -9.525 9.525) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -9.525 9.525) (end -9.525 -9.525) (layer Dwgs.User) (width 0.15))
+  (pad 1 thru_hole circle (at -2.5 -4) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
+    (net 157 "Net-(K_1-Pad1)"))
+  (pad 1 thru_hole oval (at -3.81 -2.54 48.0996) (size 4.211556 2.25) (drill 1.47 (offset 0.980778 0)) (layers *.Cu B.Mask)
+    (net 157 "Net-(K_1-Pad1)"))
+  (pad 2 thru_hole oval (at 2.5 -4.5 86.0548) (size 2.831378 2.25) (drill 1.47 (offset 0.290689 0)) (layers *.Cu B.Mask)
+    (net 162 "Net-(D_1-Pad2)"))
+  (pad 2 thru_hole circle (at 2.54 -5.08) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
+    (net 162 "Net-(D_1-Pad2)"))
+  (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
+
+  (pad 3 thru_hole circle (at -1.27 5.08) (size 1.905 1.905) (drill 1.04) (layers *.Cu B.Mask)
+    (net 159 "Net-(K_1-Pad3)"))
+  (pad 4 thru_hole rect (at 1.27 5.08) (size 1.905 1.905) (drill 1.04) (layers *.Cu B.Mask)
+    (net 160 "Net-(K_1-Pad4)"))
+  (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
+
+  
+  
+  
+)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB45148)
+    (at
+    39.55
+    58.6
+    90)
+    (attr smd)
+    (fp_text reference D_1 (at 0 1.925 90) (layer F.SilkS)
+      (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text value D (at 0 -1.925 90) (layer F.SilkS) hide
+      (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
+    )
+    (fp_line (start -2.275 -1.2) (end -2.275 1.2) (layer F.SilkS) (width 0.2))
+    (fp_line (start -2.45 -1.2) (end -2.45 1.2) (layer F.SilkS) (width 0.2))
+    (fp_line (start -2.625 -1.2) (end -2.625 1.2) (layer F.SilkS) (width 0.2))
+    (fp_line (start -3.025 1.2) (end -3.025 -1.2) (layer F.SilkS) (width 0.2))
+    (fp_line (start -2.8 -1.2) (end -2.8 1.2) (layer F.SilkS) (width 0.2))
+    (fp_line (start -2.925 -1.2) (end -2.925 1.2) (layer F.SilkS) (width 0.2))
+    (fp_line (start -3 -1.2) (end 2.8 -1.2) (layer F.SilkS) (width 0.2))
+    (fp_line (start 2.8 -1.2) (end 2.8 1.2) (layer F.SilkS) (width 0.2))
+    (fp_line (start 2.8 1.2) (end -3 1.2) (layer F.SilkS) (width 0.2))
+    (pad 1 smd rect (at -2.7 0 90) (size 2.5 0.5) (layers F.Cu)
+      (net 4 "/col1"))
+    (pad 1 smd rect (at -1.575 0 90) (size 1.2 1.2) (layers F.Cu F.Paste F.Mask)
+      (net 4 "/col1"))
+    (pad 1 thru_hole rect (at -3.9 0 90) (size 1.6 1.6) (drill 0.7) (layers *.Cu *.Mask F.SilkS)
+      (net 4 "/col1"))
+    (pad 2 smd rect (at 1.575 0 90) (size 1.2 1.2) (layers F.Cu F.Paste F.Mask)
+      (net 162 "Net-(D_1-Pad2)"))
+    (pad 2 smd rect (at 2.7 0 90) (size 2.5 0.5) (layers F.Cu)
+      (net 162 "Net-(D_1-Pad2)"))
+    (pad 2 thru_hole circle (at 3.9 0 90) (size 1.6 1.6) (drill 0.7) (layers *.Cu *.Mask F.SilkS)
+      (net 162 "Net-(D_1-Pad2)"))
+  )
+
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB44779)
+  (at
+  67.625
+  58.1
+  )
+  (fp_text reference K_2 (at 0 3.175) (layer Dwgs.User)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value KEYSW (at 0 -7.9375) (layer Dwgs.User)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_line (start 5 -7) (end 7 -7) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 7 -7) (end 7 -5) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 5 7) (end 7 7) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 7 7) (end 7 5) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -7 5) (end -7 7) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -7 7) (end -5 7) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -5 -7) (end -7 -7) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -7 -7) (end -7 -5) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -9.525 -9.525) (end 9.525 -9.525) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 9.525 -9.525) (end 9.525 9.525) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 9.525 9.525) (end -9.525 9.525) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -9.525 9.525) (end -9.525 -9.525) (layer Dwgs.User) (width 0.15))
+  (pad 1 thru_hole circle (at -2.5 -4) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
+    (net 163 "Net-(K_2-Pad1)"))
+  (pad 1 thru_hole oval (at -3.81 -2.54 48.0996) (size 4.211556 2.25) (drill 1.47 (offset 0.980778 0)) (layers *.Cu B.Mask)
+    (net 163 "Net-(K_2-Pad1)"))
+  (pad 2 thru_hole oval (at 2.5 -4.5 86.0548) (size 2.831378 2.25) (drill 1.47 (offset 0.290689 0)) (layers *.Cu B.Mask)
+    (net 168 "Net-(D_2-Pad2)"))
+  (pad 2 thru_hole circle (at 2.54 -5.08) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
+    (net 168 "Net-(D_2-Pad2)"))
+  (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
+
+  (pad 3 thru_hole circle (at -1.27 5.08) (size 1.905 1.905) (drill 1.04) (layers *.Cu B.Mask)
+    (net 165 "Net-(K_2-Pad3)"))
+  (pad 4 thru_hole rect (at 1.27 5.08) (size 1.905 1.905) (drill 1.04) (layers *.Cu B.Mask)
+    (net 166 "Net-(K_2-Pad4)"))
+  (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
+
+  
+  
+  
+)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB456C4)
+    (at
+    58.6
+    58.6
+    90)
+    (attr smd)
+    (fp_text reference D_2 (at 0 1.925 90) (layer F.SilkS)
+      (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text value D (at 0 -1.925 90) (layer F.SilkS) hide
+      (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
+    )
+    (fp_line (start -2.275 -1.2) (end -2.275 1.2) (layer F.SilkS) (width 0.2))
+    (fp_line (start -2.45 -1.2) (end -2.45 1.2) (layer F.SilkS) (width 0.2))
+    (fp_line (start -2.625 -1.2) (end -2.625 1.2) (layer F.SilkS) (width 0.2))
+    (fp_line (start -3.025 1.2) (end -3.025 -1.2) (layer F.SilkS) (width 0.2))
+    (fp_line (start -2.8 -1.2) (end -2.8 1.2) (layer F.SilkS) (width 0.2))
+    (fp_line (start -2.925 -1.2) (end -2.925 1.2) (layer F.SilkS) (width 0.2))
+    (fp_line (start -3 -1.2) (end 2.8 -1.2) (layer F.SilkS) (width 0.2))
+    (fp_line (start 2.8 -1.2) (end 2.8 1.2) (layer F.SilkS) (width 0.2))
+    (fp_line (start 2.8 1.2) (end -3 1.2) (layer F.SilkS) (width 0.2))
+    (pad 1 smd rect (at -2.7 0 90) (size 2.5 0.5) (layers F.Cu)
+      (net 5 "/col2"))
+    (pad 1 smd rect (at -1.575 0 90) (size 1.2 1.2) (layers F.Cu F.Paste F.Mask)
+      (net 5 "/col2"))
+    (pad 1 thru_hole rect (at -3.9 0 90) (size 1.6 1.6) (drill 0.7) (layers *.Cu *.Mask F.SilkS)
+      (net 5 "/col2"))
+    (pad 2 smd rect (at 1.575 0 90) (size 1.2 1.2) (layers F.Cu F.Paste F.Mask)
+      (net 168 "Net-(D_2-Pad2)"))
+    (pad 2 smd rect (at 2.7 0 90) (size 2.5 0.5) (layers F.Cu)
+      (net 168 "Net-(D_2-Pad2)"))
+    (pad 2 thru_hole circle (at 3.9 0 90) (size 1.6 1.6) (drill 0.7) (layers *.Cu *.Mask F.SilkS)
+      (net 168 "Net-(D_2-Pad2)"))
+  )
+
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB4A01B)
+  (at
+  86.675
+  58.1
+  )
+  (fp_text reference K_3 (at 0 3.175) (layer Dwgs.User)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value KEYSW (at 0 -7.9375) (layer Dwgs.User)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_line (start 5 -7) (end 7 -7) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 7 -7) (end 7 -5) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 5 7) (end 7 7) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 7 7) (end 7 5) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -7 5) (end -7 7) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -7 7) (end -5 7) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -5 -7) (end -7 -7) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -7 -7) (end -7 -5) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -9.525 -9.525) (end 9.525 -9.525) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 9.525 -9.525) (end 9.525 9.525) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 9.525 9.525) (end -9.525 9.525) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -9.525 9.525) (end -9.525 -9.525) (layer Dwgs.User) (width 0.15))
+  (pad 1 thru_hole circle (at -2.5 -4) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
+    (net 169 "Net-(K_3-Pad1)"))
+  (pad 1 thru_hole oval (at -3.81 -2.54 48.0996) (size 4.211556 2.25) (drill 1.47 (offset 0.980778 0)) (layers *.Cu B.Mask)
+    (net 169 "Net-(K_3-Pad1)"))
+  (pad 2 thru_hole oval (at 2.5 -4.5 86.0548) (size 2.831378 2.25) (drill 1.47 (offset 0.290689 0)) (layers *.Cu B.Mask)
+    (net 174 "Net-(D_3-Pad2)"))
+  (pad 2 thru_hole circle (at 2.54 -5.08) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
+    (net 174 "Net-(D_3-Pad2)"))
+  (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
+
+  (pad 3 thru_hole circle (at -1.27 5.08) (size 1.905 1.905) (drill 1.04) (layers *.Cu B.Mask)
+    (net 171 "Net-(K_3-Pad3)"))
+  (pad 4 thru_hole rect (at 1.27 5.08) (size 1.905 1.905) (drill 1.04) (layers *.Cu B.Mask)
+    (net 172 "Net-(K_3-Pad4)"))
+  (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
+
+  
+  
+  
+)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB4EA0B)
+    (at
+    77.65
+    58.6
+    90)
+    (attr smd)
+    (fp_text reference D_3 (at 0 1.925 90) (layer F.SilkS)
+      (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text value D (at 0 -1.925 90) (layer F.SilkS) hide
+      (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
+    )
+    (fp_line (start -2.275 -1.2) (end -2.275 1.2) (layer F.SilkS) (width 0.2))
+    (fp_line (start -2.45 -1.2) (end -2.45 1.2) (layer F.SilkS) (width 0.2))
+    (fp_line (start -2.625 -1.2) (end -2.625 1.2) (layer F.SilkS) (width 0.2))
+    (fp_line (start -3.025 1.2) (end -3.025 -1.2) (layer F.SilkS) (width 0.2))
+    (fp_line (start -2.8 -1.2) (end -2.8 1.2) (layer F.SilkS) (width 0.2))
+    (fp_line (start -2.925 -1.2) (end -2.925 1.2) (layer F.SilkS) (width 0.2))
+    (fp_line (start -3 -1.2) (end 2.8 -1.2) (layer F.SilkS) (width 0.2))
+    (fp_line (start 2.8 -1.2) (end 2.8 1.2) (layer F.SilkS) (width 0.2))
+    (fp_line (start 2.8 1.2) (end -3 1.2) (layer F.SilkS) (width 0.2))
+    (pad 1 smd rect (at -2.7 0 90) (size 2.5 0.5) (layers F.Cu)
+      (net 6 "/col3"))
+    (pad 1 smd rect (at -1.575 0 90) (size 1.2 1.2) (layers F.Cu F.Paste F.Mask)
+      (net 6 "/col3"))
+    (pad 1 thru_hole rect (at -3.9 0 90) (size 1.6 1.6) (drill 0.7) (layers *.Cu *.Mask F.SilkS)
+      (net 6 "/col3"))
+    (pad 2 smd rect (at 1.575 0 90) (size 1.2 1.2) (layers F.Cu F.Paste F.Mask)
+      (net 174 "Net-(D_3-Pad2)"))
+    (pad 2 smd rect (at 2.7 0 90) (size 2.5 0.5) (layers F.Cu)
+      (net 174 "Net-(D_3-Pad2)"))
+    (pad 2 thru_hole circle (at 3.9 0 90) (size 1.6 1.6) (drill 0.7) (layers *.Cu *.Mask F.SilkS)
+      (net 174 "Net-(D_3-Pad2)"))
+  )
+
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB4219D)
+  (at
+  105.725
   58.1
   )
   (fp_text reference K_4 (at 0 3.175) (layer Dwgs.User)
@@ -3359,21 +3605,21 @@
   (fp_line (start 9.525 9.525) (end -9.525 9.525) (layer Dwgs.User) (width 0.15))
   (fp_line (start -9.525 9.525) (end -9.525 -9.525) (layer Dwgs.User) (width 0.15))
   (pad 1 thru_hole circle (at -2.5 -4) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 157 "Net-(K_4-Pad1)"))
+    (net 175 "Net-(K_4-Pad1)"))
   (pad 1 thru_hole oval (at -3.81 -2.54 48.0996) (size 4.211556 2.25) (drill 1.47 (offset 0.980778 0)) (layers *.Cu B.Mask)
-    (net 157 "Net-(K_4-Pad1)"))
+    (net 175 "Net-(K_4-Pad1)"))
   (pad 2 thru_hole oval (at 2.5 -4.5 86.0548) (size 2.831378 2.25) (drill 1.47 (offset 0.290689 0)) (layers *.Cu B.Mask)
-    (net 162 "Net-(D_4-Pad2)"))
+    (net 180 "Net-(D_4-Pad2)"))
   (pad 2 thru_hole circle (at 2.54 -5.08) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 162 "Net-(D_4-Pad2)"))
+    (net 180 "Net-(D_4-Pad2)"))
   (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
 
   (pad 3 thru_hole circle (at -1.27 5.08) (size 1.905 1.905) (drill 1.04) (layers *.Cu B.Mask)
-    (net 159 "Net-(K_4-Pad3)"))
+    (net 177 "Net-(K_4-Pad3)"))
   (pad 4 thru_hole rect (at 1.27 5.08) (size 1.905 1.905) (drill 1.04) (layers *.Cu B.Mask)
-    (net 160 "Net-(K_4-Pad4)"))
+    (net 178 "Net-(K_4-Pad4)"))
   (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
@@ -3382,9 +3628,9 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 6628FD9E)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB400D5)
     (at
-    39.55
+    96.7
     58.6
     90)
     (attr smd)
@@ -3404,22 +3650,22 @@
     (fp_line (start 2.8 -1.2) (end 2.8 1.2) (layer F.SilkS) (width 0.2))
     (fp_line (start 2.8 1.2) (end -3 1.2) (layer F.SilkS) (width 0.2))
     (pad 1 smd rect (at -2.7 0 90) (size 2.5 0.5) (layers F.Cu)
-      (net 4 "/col1"))
+      (net 7 "/col4"))
     (pad 1 smd rect (at -1.575 0 90) (size 1.2 1.2) (layers F.Cu F.Paste F.Mask)
-      (net 4 "/col1"))
+      (net 7 "/col4"))
     (pad 1 thru_hole rect (at -3.9 0 90) (size 1.6 1.6) (drill 0.7) (layers *.Cu *.Mask F.SilkS)
-      (net 4 "/col1"))
+      (net 7 "/col4"))
     (pad 2 smd rect (at 1.575 0 90) (size 1.2 1.2) (layers F.Cu F.Paste F.Mask)
-      (net 162 "Net-(D_4-Pad2)"))
+      (net 180 "Net-(D_4-Pad2)"))
     (pad 2 smd rect (at 2.7 0 90) (size 2.5 0.5) (layers F.Cu)
-      (net 162 "Net-(D_4-Pad2)"))
+      (net 180 "Net-(D_4-Pad2)"))
     (pad 2 thru_hole circle (at 3.9 0 90) (size 1.6 1.6) (drill 0.7) (layers *.Cu *.Mask F.SilkS)
-      (net 162 "Net-(D_4-Pad2)"))
+      (net 180 "Net-(D_4-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 6628D2B2)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB43F55)
   (at
-  67.625
+  124.775
   58.1
   )
   (fp_text reference K_5 (at 0 3.175) (layer Dwgs.User)
@@ -3441,21 +3687,21 @@
   (fp_line (start 9.525 9.525) (end -9.525 9.525) (layer Dwgs.User) (width 0.15))
   (fp_line (start -9.525 9.525) (end -9.525 -9.525) (layer Dwgs.User) (width 0.15))
   (pad 1 thru_hole circle (at -2.5 -4) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 163 "Net-(K_5-Pad1)"))
+    (net 181 "Net-(K_5-Pad1)"))
   (pad 1 thru_hole oval (at -3.81 -2.54 48.0996) (size 4.211556 2.25) (drill 1.47 (offset 0.980778 0)) (layers *.Cu B.Mask)
-    (net 163 "Net-(K_5-Pad1)"))
+    (net 181 "Net-(K_5-Pad1)"))
   (pad 2 thru_hole oval (at 2.5 -4.5 86.0548) (size 2.831378 2.25) (drill 1.47 (offset 0.290689 0)) (layers *.Cu B.Mask)
-    (net 168 "Net-(D_5-Pad2)"))
+    (net 186 "Net-(D_5-Pad2)"))
   (pad 2 thru_hole circle (at 2.54 -5.08) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 168 "Net-(D_5-Pad2)"))
+    (net 186 "Net-(D_5-Pad2)"))
   (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
 
   (pad 3 thru_hole circle (at -1.27 5.08) (size 1.905 1.905) (drill 1.04) (layers *.Cu B.Mask)
-    (net 165 "Net-(K_5-Pad3)"))
+    (net 183 "Net-(K_5-Pad3)"))
   (pad 4 thru_hole rect (at 1.27 5.08) (size 1.905 1.905) (drill 1.04) (layers *.Cu B.Mask)
-    (net 166 "Net-(K_5-Pad4)"))
+    (net 184 "Net-(K_5-Pad4)"))
   (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
@@ -3464,9 +3710,9 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 6628F7E1)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB4A6A7)
     (at
-    58.6
+    115.75
     58.6
     90)
     (attr smd)
@@ -3486,22 +3732,22 @@
     (fp_line (start 2.8 -1.2) (end 2.8 1.2) (layer F.SilkS) (width 0.2))
     (fp_line (start 2.8 1.2) (end -3 1.2) (layer F.SilkS) (width 0.2))
     (pad 1 smd rect (at -2.7 0 90) (size 2.5 0.5) (layers F.Cu)
-      (net 5 "/col2"))
+      (net 8 "/col5"))
     (pad 1 smd rect (at -1.575 0 90) (size 1.2 1.2) (layers F.Cu F.Paste F.Mask)
-      (net 5 "/col2"))
+      (net 8 "/col5"))
     (pad 1 thru_hole rect (at -3.9 0 90) (size 1.6 1.6) (drill 0.7) (layers *.Cu *.Mask F.SilkS)
-      (net 5 "/col2"))
+      (net 8 "/col5"))
     (pad 2 smd rect (at 1.575 0 90) (size 1.2 1.2) (layers F.Cu F.Paste F.Mask)
-      (net 168 "Net-(D_5-Pad2)"))
+      (net 186 "Net-(D_5-Pad2)"))
     (pad 2 smd rect (at 2.7 0 90) (size 2.5 0.5) (layers F.Cu)
-      (net 168 "Net-(D_5-Pad2)"))
+      (net 186 "Net-(D_5-Pad2)"))
     (pad 2 thru_hole circle (at 3.9 0 90) (size 1.6 1.6) (drill 0.7) (layers *.Cu *.Mask F.SilkS)
-      (net 168 "Net-(D_5-Pad2)"))
+      (net 186 "Net-(D_5-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 66288FCB)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB4EAC9)
   (at
-  86.675
+  143.825
   58.1
   )
   (fp_text reference K_6 (at 0 3.175) (layer Dwgs.User)
@@ -3523,21 +3769,21 @@
   (fp_line (start 9.525 9.525) (end -9.525 9.525) (layer Dwgs.User) (width 0.15))
   (fp_line (start -9.525 9.525) (end -9.525 -9.525) (layer Dwgs.User) (width 0.15))
   (pad 1 thru_hole circle (at -2.5 -4) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 169 "Net-(K_6-Pad1)"))
+    (net 187 "Net-(K_6-Pad1)"))
   (pad 1 thru_hole oval (at -3.81 -2.54 48.0996) (size 4.211556 2.25) (drill 1.47 (offset 0.980778 0)) (layers *.Cu B.Mask)
-    (net 169 "Net-(K_6-Pad1)"))
+    (net 187 "Net-(K_6-Pad1)"))
   (pad 2 thru_hole oval (at 2.5 -4.5 86.0548) (size 2.831378 2.25) (drill 1.47 (offset 0.290689 0)) (layers *.Cu B.Mask)
-    (net 174 "Net-(D_6-Pad2)"))
+    (net 192 "Net-(D_6-Pad2)"))
   (pad 2 thru_hole circle (at 2.54 -5.08) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 174 "Net-(D_6-Pad2)"))
+    (net 192 "Net-(D_6-Pad2)"))
   (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
 
   (pad 3 thru_hole circle (at -1.27 5.08) (size 1.905 1.905) (drill 1.04) (layers *.Cu B.Mask)
-    (net 171 "Net-(K_6-Pad3)"))
+    (net 189 "Net-(K_6-Pad3)"))
   (pad 4 thru_hole rect (at 1.27 5.08) (size 1.905 1.905) (drill 1.04) (layers *.Cu B.Mask)
-    (net 172 "Net-(K_6-Pad4)"))
+    (net 190 "Net-(K_6-Pad4)"))
   (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
@@ -3546,9 +3792,9 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 66284A14)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB4B635)
     (at
-    77.65
+    134.8
     58.6
     90)
     (attr smd)
@@ -3568,22 +3814,22 @@
     (fp_line (start 2.8 -1.2) (end 2.8 1.2) (layer F.SilkS) (width 0.2))
     (fp_line (start 2.8 1.2) (end -3 1.2) (layer F.SilkS) (width 0.2))
     (pad 1 smd rect (at -2.7 0 90) (size 2.5 0.5) (layers F.Cu)
-      (net 6 "/col3"))
+      (net 9 "/col6"))
     (pad 1 smd rect (at -1.575 0 90) (size 1.2 1.2) (layers F.Cu F.Paste F.Mask)
-      (net 6 "/col3"))
+      (net 9 "/col6"))
     (pad 1 thru_hole rect (at -3.9 0 90) (size 1.6 1.6) (drill 0.7) (layers *.Cu *.Mask F.SilkS)
-      (net 6 "/col3"))
+      (net 9 "/col6"))
     (pad 2 smd rect (at 1.575 0 90) (size 1.2 1.2) (layers F.Cu F.Paste F.Mask)
-      (net 174 "Net-(D_6-Pad2)"))
+      (net 192 "Net-(D_6-Pad2)"))
     (pad 2 smd rect (at 2.7 0 90) (size 2.5 0.5) (layers F.Cu)
-      (net 174 "Net-(D_6-Pad2)"))
+      (net 192 "Net-(D_6-Pad2)"))
     (pad 2 thru_hole circle (at 3.9 0 90) (size 1.6 1.6) (drill 0.7) (layers *.Cu *.Mask F.SilkS)
-      (net 174 "Net-(D_6-Pad2)"))
+      (net 192 "Net-(D_6-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 662837D3)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB4E325)
   (at
-  105.725
+  162.875
   58.1
   )
   (fp_text reference K_7 (at 0 3.175) (layer Dwgs.User)
@@ -3605,21 +3851,21 @@
   (fp_line (start 9.525 9.525) (end -9.525 9.525) (layer Dwgs.User) (width 0.15))
   (fp_line (start -9.525 9.525) (end -9.525 -9.525) (layer Dwgs.User) (width 0.15))
   (pad 1 thru_hole circle (at -2.5 -4) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 175 "Net-(K_7-Pad1)"))
+    (net 193 "Net-(K_7-Pad1)"))
   (pad 1 thru_hole oval (at -3.81 -2.54 48.0996) (size 4.211556 2.25) (drill 1.47 (offset 0.980778 0)) (layers *.Cu B.Mask)
-    (net 175 "Net-(K_7-Pad1)"))
+    (net 193 "Net-(K_7-Pad1)"))
   (pad 2 thru_hole oval (at 2.5 -4.5 86.0548) (size 2.831378 2.25) (drill 1.47 (offset 0.290689 0)) (layers *.Cu B.Mask)
-    (net 180 "Net-(D_7-Pad2)"))
+    (net 198 "Net-(D_7-Pad2)"))
   (pad 2 thru_hole circle (at 2.54 -5.08) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 180 "Net-(D_7-Pad2)"))
+    (net 198 "Net-(D_7-Pad2)"))
   (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
 
   (pad 3 thru_hole circle (at -1.27 5.08) (size 1.905 1.905) (drill 1.04) (layers *.Cu B.Mask)
-    (net 177 "Net-(K_7-Pad3)"))
+    (net 195 "Net-(K_7-Pad3)"))
   (pad 4 thru_hole rect (at 1.27 5.08) (size 1.905 1.905) (drill 1.04) (layers *.Cu B.Mask)
-    (net 178 "Net-(K_7-Pad4)"))
+    (net 196 "Net-(K_7-Pad4)"))
   (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
@@ -3628,9 +3874,9 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 66285553)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB40039)
     (at
-    96.7
+    153.85
     58.6
     90)
     (attr smd)
@@ -3650,22 +3896,22 @@
     (fp_line (start 2.8 -1.2) (end 2.8 1.2) (layer F.SilkS) (width 0.2))
     (fp_line (start 2.8 1.2) (end -3 1.2) (layer F.SilkS) (width 0.2))
     (pad 1 smd rect (at -2.7 0 90) (size 2.5 0.5) (layers F.Cu)
-      (net 7 "/col4"))
+      (net 10 "/col7"))
     (pad 1 smd rect (at -1.575 0 90) (size 1.2 1.2) (layers F.Cu F.Paste F.Mask)
-      (net 7 "/col4"))
+      (net 10 "/col7"))
     (pad 1 thru_hole rect (at -3.9 0 90) (size 1.6 1.6) (drill 0.7) (layers *.Cu *.Mask F.SilkS)
-      (net 7 "/col4"))
+      (net 10 "/col7"))
     (pad 2 smd rect (at 1.575 0 90) (size 1.2 1.2) (layers F.Cu F.Paste F.Mask)
-      (net 180 "Net-(D_7-Pad2)"))
+      (net 198 "Net-(D_7-Pad2)"))
     (pad 2 smd rect (at 2.7 0 90) (size 2.5 0.5) (layers F.Cu)
-      (net 180 "Net-(D_7-Pad2)"))
+      (net 198 "Net-(D_7-Pad2)"))
     (pad 2 thru_hole circle (at 3.9 0 90) (size 1.6 1.6) (drill 0.7) (layers *.Cu *.Mask F.SilkS)
-      (net 180 "Net-(D_7-Pad2)"))
+      (net 198 "Net-(D_7-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 66288B33)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB4CFDD)
   (at
-  124.775
+  181.925
   58.1
   )
   (fp_text reference K_8 (at 0 3.175) (layer Dwgs.User)
@@ -3687,21 +3933,21 @@
   (fp_line (start 9.525 9.525) (end -9.525 9.525) (layer Dwgs.User) (width 0.15))
   (fp_line (start -9.525 9.525) (end -9.525 -9.525) (layer Dwgs.User) (width 0.15))
   (pad 1 thru_hole circle (at -2.5 -4) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 181 "Net-(K_8-Pad1)"))
+    (net 199 "Net-(K_8-Pad1)"))
   (pad 1 thru_hole oval (at -3.81 -2.54 48.0996) (size 4.211556 2.25) (drill 1.47 (offset 0.980778 0)) (layers *.Cu B.Mask)
-    (net 181 "Net-(K_8-Pad1)"))
+    (net 199 "Net-(K_8-Pad1)"))
   (pad 2 thru_hole oval (at 2.5 -4.5 86.0548) (size 2.831378 2.25) (drill 1.47 (offset 0.290689 0)) (layers *.Cu B.Mask)
-    (net 186 "Net-(D_8-Pad2)"))
+    (net 204 "Net-(D_8-Pad2)"))
   (pad 2 thru_hole circle (at 2.54 -5.08) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 186 "Net-(D_8-Pad2)"))
+    (net 204 "Net-(D_8-Pad2)"))
   (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
 
   (pad 3 thru_hole circle (at -1.27 5.08) (size 1.905 1.905) (drill 1.04) (layers *.Cu B.Mask)
-    (net 183 "Net-(K_8-Pad3)"))
+    (net 201 "Net-(K_8-Pad3)"))
   (pad 4 thru_hole rect (at 1.27 5.08) (size 1.905 1.905) (drill 1.04) (layers *.Cu B.Mask)
-    (net 184 "Net-(K_8-Pad4)"))
+    (net 202 "Net-(K_8-Pad4)"))
   (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
@@ -3710,9 +3956,9 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 66286FEF)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB4BFA0)
     (at
-    115.75
+    172.9
     58.6
     90)
     (attr smd)
@@ -3732,22 +3978,22 @@
     (fp_line (start 2.8 -1.2) (end 2.8 1.2) (layer F.SilkS) (width 0.2))
     (fp_line (start 2.8 1.2) (end -3 1.2) (layer F.SilkS) (width 0.2))
     (pad 1 smd rect (at -2.7 0 90) (size 2.5 0.5) (layers F.Cu)
-      (net 8 "/col5"))
+      (net 11 "/col8"))
     (pad 1 smd rect (at -1.575 0 90) (size 1.2 1.2) (layers F.Cu F.Paste F.Mask)
-      (net 8 "/col5"))
+      (net 11 "/col8"))
     (pad 1 thru_hole rect (at -3.9 0 90) (size 1.6 1.6) (drill 0.7) (layers *.Cu *.Mask F.SilkS)
-      (net 8 "/col5"))
+      (net 11 "/col8"))
     (pad 2 smd rect (at 1.575 0 90) (size 1.2 1.2) (layers F.Cu F.Paste F.Mask)
-      (net 186 "Net-(D_8-Pad2)"))
+      (net 204 "Net-(D_8-Pad2)"))
     (pad 2 smd rect (at 2.7 0 90) (size 2.5 0.5) (layers F.Cu)
-      (net 186 "Net-(D_8-Pad2)"))
+      (net 204 "Net-(D_8-Pad2)"))
     (pad 2 thru_hole circle (at 3.9 0 90) (size 1.6 1.6) (drill 0.7) (layers *.Cu *.Mask F.SilkS)
-      (net 186 "Net-(D_8-Pad2)"))
+      (net 204 "Net-(D_8-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 6628F202)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB4E4DA)
   (at
-  143.825
+  200.975
   58.1
   )
   (fp_text reference K_9 (at 0 3.175) (layer Dwgs.User)
@@ -3769,21 +4015,21 @@
   (fp_line (start 9.525 9.525) (end -9.525 9.525) (layer Dwgs.User) (width 0.15))
   (fp_line (start -9.525 9.525) (end -9.525 -9.525) (layer Dwgs.User) (width 0.15))
   (pad 1 thru_hole circle (at -2.5 -4) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 187 "Net-(K_9-Pad1)"))
+    (net 205 "Net-(K_9-Pad1)"))
   (pad 1 thru_hole oval (at -3.81 -2.54 48.0996) (size 4.211556 2.25) (drill 1.47 (offset 0.980778 0)) (layers *.Cu B.Mask)
-    (net 187 "Net-(K_9-Pad1)"))
+    (net 205 "Net-(K_9-Pad1)"))
   (pad 2 thru_hole oval (at 2.5 -4.5 86.0548) (size 2.831378 2.25) (drill 1.47 (offset 0.290689 0)) (layers *.Cu B.Mask)
-    (net 192 "Net-(D_9-Pad2)"))
+    (net 210 "Net-(D_9-Pad2)"))
   (pad 2 thru_hole circle (at 2.54 -5.08) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 192 "Net-(D_9-Pad2)"))
+    (net 210 "Net-(D_9-Pad2)"))
   (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
 
   (pad 3 thru_hole circle (at -1.27 5.08) (size 1.905 1.905) (drill 1.04) (layers *.Cu B.Mask)
-    (net 189 "Net-(K_9-Pad3)"))
+    (net 207 "Net-(K_9-Pad3)"))
   (pad 4 thru_hole rect (at 1.27 5.08) (size 1.905 1.905) (drill 1.04) (layers *.Cu B.Mask)
-    (net 190 "Net-(K_9-Pad4)"))
+    (net 208 "Net-(K_9-Pad4)"))
   (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
@@ -3792,9 +4038,9 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 66288659)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB41464)
     (at
-    134.8
+    191.95
     58.6
     90)
     (attr smd)
@@ -3814,266 +4060,20 @@
     (fp_line (start 2.8 -1.2) (end 2.8 1.2) (layer F.SilkS) (width 0.2))
     (fp_line (start 2.8 1.2) (end -3 1.2) (layer F.SilkS) (width 0.2))
     (pad 1 smd rect (at -2.7 0 90) (size 2.5 0.5) (layers F.Cu)
-      (net 9 "/col6"))
-    (pad 1 smd rect (at -1.575 0 90) (size 1.2 1.2) (layers F.Cu F.Paste F.Mask)
-      (net 9 "/col6"))
-    (pad 1 thru_hole rect (at -3.9 0 90) (size 1.6 1.6) (drill 0.7) (layers *.Cu *.Mask F.SilkS)
-      (net 9 "/col6"))
-    (pad 2 smd rect (at 1.575 0 90) (size 1.2 1.2) (layers F.Cu F.Paste F.Mask)
-      (net 192 "Net-(D_9-Pad2)"))
-    (pad 2 smd rect (at 2.7 0 90) (size 2.5 0.5) (layers F.Cu)
-      (net 192 "Net-(D_9-Pad2)"))
-    (pad 2 thru_hole circle (at 3.9 0 90) (size 1.6 1.6) (drill 0.7) (layers *.Cu *.Mask F.SilkS)
-      (net 192 "Net-(D_9-Pad2)"))
-  )
-
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 6628025A)
-  (at
-  162.875
-  58.1
-  )
-  (fp_text reference K_10 (at 0 3.175) (layer Dwgs.User)
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (fp_text value KEYSW (at 0 -7.9375) (layer Dwgs.User)
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (fp_line (start 5 -7) (end 7 -7) (layer Dwgs.User) (width 0.15))
-  (fp_line (start 7 -7) (end 7 -5) (layer Dwgs.User) (width 0.15))
-  (fp_line (start 5 7) (end 7 7) (layer Dwgs.User) (width 0.15))
-  (fp_line (start 7 7) (end 7 5) (layer Dwgs.User) (width 0.15))
-  (fp_line (start -7 5) (end -7 7) (layer Dwgs.User) (width 0.15))
-  (fp_line (start -7 7) (end -5 7) (layer Dwgs.User) (width 0.15))
-  (fp_line (start -5 -7) (end -7 -7) (layer Dwgs.User) (width 0.15))
-  (fp_line (start -7 -7) (end -7 -5) (layer Dwgs.User) (width 0.15))
-  (fp_line (start -9.525 -9.525) (end 9.525 -9.525) (layer Dwgs.User) (width 0.15))
-  (fp_line (start 9.525 -9.525) (end 9.525 9.525) (layer Dwgs.User) (width 0.15))
-  (fp_line (start 9.525 9.525) (end -9.525 9.525) (layer Dwgs.User) (width 0.15))
-  (fp_line (start -9.525 9.525) (end -9.525 -9.525) (layer Dwgs.User) (width 0.15))
-  (pad 1 thru_hole circle (at -2.5 -4) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 193 "Net-(K_10-Pad1)"))
-  (pad 1 thru_hole oval (at -3.81 -2.54 48.0996) (size 4.211556 2.25) (drill 1.47 (offset 0.980778 0)) (layers *.Cu B.Mask)
-    (net 193 "Net-(K_10-Pad1)"))
-  (pad 2 thru_hole oval (at 2.5 -4.5 86.0548) (size 2.831378 2.25) (drill 1.47 (offset 0.290689 0)) (layers *.Cu B.Mask)
-    (net 198 "Net-(D_10-Pad2)"))
-  (pad 2 thru_hole circle (at 2.54 -5.08) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 198 "Net-(D_10-Pad2)"))
-  (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
-  (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
-  (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
-
-  (pad 3 thru_hole circle (at -1.27 5.08) (size 1.905 1.905) (drill 1.04) (layers *.Cu B.Mask)
-    (net 195 "Net-(K_10-Pad3)"))
-  (pad 4 thru_hole rect (at 1.27 5.08) (size 1.905 1.905) (drill 1.04) (layers *.Cu B.Mask)
-    (net 196 "Net-(K_10-Pad4)"))
-  (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
-  (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
-  (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
-
-  
-  
-  
-)
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 66286A6B)
-    (at
-    153.85
-    58.6
-    90)
-    (attr smd)
-    (fp_text reference D_10 (at 0 1.925 90) (layer F.SilkS)
-      (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text value D (at 0 -1.925 90) (layer F.SilkS) hide
-      (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
-    )
-    (fp_line (start -2.275 -1.2) (end -2.275 1.2) (layer F.SilkS) (width 0.2))
-    (fp_line (start -2.45 -1.2) (end -2.45 1.2) (layer F.SilkS) (width 0.2))
-    (fp_line (start -2.625 -1.2) (end -2.625 1.2) (layer F.SilkS) (width 0.2))
-    (fp_line (start -3.025 1.2) (end -3.025 -1.2) (layer F.SilkS) (width 0.2))
-    (fp_line (start -2.8 -1.2) (end -2.8 1.2) (layer F.SilkS) (width 0.2))
-    (fp_line (start -2.925 -1.2) (end -2.925 1.2) (layer F.SilkS) (width 0.2))
-    (fp_line (start -3 -1.2) (end 2.8 -1.2) (layer F.SilkS) (width 0.2))
-    (fp_line (start 2.8 -1.2) (end 2.8 1.2) (layer F.SilkS) (width 0.2))
-    (fp_line (start 2.8 1.2) (end -3 1.2) (layer F.SilkS) (width 0.2))
-    (pad 1 smd rect (at -2.7 0 90) (size 2.5 0.5) (layers F.Cu)
-      (net 10 "/col7"))
-    (pad 1 smd rect (at -1.575 0 90) (size 1.2 1.2) (layers F.Cu F.Paste F.Mask)
-      (net 10 "/col7"))
-    (pad 1 thru_hole rect (at -3.9 0 90) (size 1.6 1.6) (drill 0.7) (layers *.Cu *.Mask F.SilkS)
-      (net 10 "/col7"))
-    (pad 2 smd rect (at 1.575 0 90) (size 1.2 1.2) (layers F.Cu F.Paste F.Mask)
-      (net 198 "Net-(D_10-Pad2)"))
-    (pad 2 smd rect (at 2.7 0 90) (size 2.5 0.5) (layers F.Cu)
-      (net 198 "Net-(D_10-Pad2)"))
-    (pad 2 thru_hole circle (at 3.9 0 90) (size 1.6 1.6) (drill 0.7) (layers *.Cu *.Mask F.SilkS)
-      (net 198 "Net-(D_10-Pad2)"))
-  )
-
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 6628B2BF)
-  (at
-  181.925
-  58.1
-  )
-  (fp_text reference K_11 (at 0 3.175) (layer Dwgs.User)
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (fp_text value KEYSW (at 0 -7.9375) (layer Dwgs.User)
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (fp_line (start 5 -7) (end 7 -7) (layer Dwgs.User) (width 0.15))
-  (fp_line (start 7 -7) (end 7 -5) (layer Dwgs.User) (width 0.15))
-  (fp_line (start 5 7) (end 7 7) (layer Dwgs.User) (width 0.15))
-  (fp_line (start 7 7) (end 7 5) (layer Dwgs.User) (width 0.15))
-  (fp_line (start -7 5) (end -7 7) (layer Dwgs.User) (width 0.15))
-  (fp_line (start -7 7) (end -5 7) (layer Dwgs.User) (width 0.15))
-  (fp_line (start -5 -7) (end -7 -7) (layer Dwgs.User) (width 0.15))
-  (fp_line (start -7 -7) (end -7 -5) (layer Dwgs.User) (width 0.15))
-  (fp_line (start -9.525 -9.525) (end 9.525 -9.525) (layer Dwgs.User) (width 0.15))
-  (fp_line (start 9.525 -9.525) (end 9.525 9.525) (layer Dwgs.User) (width 0.15))
-  (fp_line (start 9.525 9.525) (end -9.525 9.525) (layer Dwgs.User) (width 0.15))
-  (fp_line (start -9.525 9.525) (end -9.525 -9.525) (layer Dwgs.User) (width 0.15))
-  (pad 1 thru_hole circle (at -2.5 -4) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 199 "Net-(K_11-Pad1)"))
-  (pad 1 thru_hole oval (at -3.81 -2.54 48.0996) (size 4.211556 2.25) (drill 1.47 (offset 0.980778 0)) (layers *.Cu B.Mask)
-    (net 199 "Net-(K_11-Pad1)"))
-  (pad 2 thru_hole oval (at 2.5 -4.5 86.0548) (size 2.831378 2.25) (drill 1.47 (offset 0.290689 0)) (layers *.Cu B.Mask)
-    (net 204 "Net-(D_11-Pad2)"))
-  (pad 2 thru_hole circle (at 2.54 -5.08) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 204 "Net-(D_11-Pad2)"))
-  (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
-  (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
-  (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
-
-  (pad 3 thru_hole circle (at -1.27 5.08) (size 1.905 1.905) (drill 1.04) (layers *.Cu B.Mask)
-    (net 201 "Net-(K_11-Pad3)"))
-  (pad 4 thru_hole rect (at 1.27 5.08) (size 1.905 1.905) (drill 1.04) (layers *.Cu B.Mask)
-    (net 202 "Net-(K_11-Pad4)"))
-  (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
-  (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
-  (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
-
-  
-  
-  
-)
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 66283D3F)
-    (at
-    172.9
-    58.6
-    90)
-    (attr smd)
-    (fp_text reference D_11 (at 0 1.925 90) (layer F.SilkS)
-      (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text value D (at 0 -1.925 90) (layer F.SilkS) hide
-      (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
-    )
-    (fp_line (start -2.275 -1.2) (end -2.275 1.2) (layer F.SilkS) (width 0.2))
-    (fp_line (start -2.45 -1.2) (end -2.45 1.2) (layer F.SilkS) (width 0.2))
-    (fp_line (start -2.625 -1.2) (end -2.625 1.2) (layer F.SilkS) (width 0.2))
-    (fp_line (start -3.025 1.2) (end -3.025 -1.2) (layer F.SilkS) (width 0.2))
-    (fp_line (start -2.8 -1.2) (end -2.8 1.2) (layer F.SilkS) (width 0.2))
-    (fp_line (start -2.925 -1.2) (end -2.925 1.2) (layer F.SilkS) (width 0.2))
-    (fp_line (start -3 -1.2) (end 2.8 -1.2) (layer F.SilkS) (width 0.2))
-    (fp_line (start 2.8 -1.2) (end 2.8 1.2) (layer F.SilkS) (width 0.2))
-    (fp_line (start 2.8 1.2) (end -3 1.2) (layer F.SilkS) (width 0.2))
-    (pad 1 smd rect (at -2.7 0 90) (size 2.5 0.5) (layers F.Cu)
-      (net 11 "/col8"))
-    (pad 1 smd rect (at -1.575 0 90) (size 1.2 1.2) (layers F.Cu F.Paste F.Mask)
-      (net 11 "/col8"))
-    (pad 1 thru_hole rect (at -3.9 0 90) (size 1.6 1.6) (drill 0.7) (layers *.Cu *.Mask F.SilkS)
-      (net 11 "/col8"))
-    (pad 2 smd rect (at 1.575 0 90) (size 1.2 1.2) (layers F.Cu F.Paste F.Mask)
-      (net 204 "Net-(D_11-Pad2)"))
-    (pad 2 smd rect (at 2.7 0 90) (size 2.5 0.5) (layers F.Cu)
-      (net 204 "Net-(D_11-Pad2)"))
-    (pad 2 thru_hole circle (at 3.9 0 90) (size 1.6 1.6) (drill 0.7) (layers *.Cu *.Mask F.SilkS)
-      (net 204 "Net-(D_11-Pad2)"))
-  )
-
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 662878E9)
-  (at
-  200.975
-  58.1
-  )
-  (fp_text reference K_12 (at 0 3.175) (layer Dwgs.User)
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (fp_text value KEYSW (at 0 -7.9375) (layer Dwgs.User)
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (fp_line (start 5 -7) (end 7 -7) (layer Dwgs.User) (width 0.15))
-  (fp_line (start 7 -7) (end 7 -5) (layer Dwgs.User) (width 0.15))
-  (fp_line (start 5 7) (end 7 7) (layer Dwgs.User) (width 0.15))
-  (fp_line (start 7 7) (end 7 5) (layer Dwgs.User) (width 0.15))
-  (fp_line (start -7 5) (end -7 7) (layer Dwgs.User) (width 0.15))
-  (fp_line (start -7 7) (end -5 7) (layer Dwgs.User) (width 0.15))
-  (fp_line (start -5 -7) (end -7 -7) (layer Dwgs.User) (width 0.15))
-  (fp_line (start -7 -7) (end -7 -5) (layer Dwgs.User) (width 0.15))
-  (fp_line (start -9.525 -9.525) (end 9.525 -9.525) (layer Dwgs.User) (width 0.15))
-  (fp_line (start 9.525 -9.525) (end 9.525 9.525) (layer Dwgs.User) (width 0.15))
-  (fp_line (start 9.525 9.525) (end -9.525 9.525) (layer Dwgs.User) (width 0.15))
-  (fp_line (start -9.525 9.525) (end -9.525 -9.525) (layer Dwgs.User) (width 0.15))
-  (pad 1 thru_hole circle (at -2.5 -4) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 205 "Net-(K_12-Pad1)"))
-  (pad 1 thru_hole oval (at -3.81 -2.54 48.0996) (size 4.211556 2.25) (drill 1.47 (offset 0.980778 0)) (layers *.Cu B.Mask)
-    (net 205 "Net-(K_12-Pad1)"))
-  (pad 2 thru_hole oval (at 2.5 -4.5 86.0548) (size 2.831378 2.25) (drill 1.47 (offset 0.290689 0)) (layers *.Cu B.Mask)
-    (net 210 "Net-(D_12-Pad2)"))
-  (pad 2 thru_hole circle (at 2.54 -5.08) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 210 "Net-(D_12-Pad2)"))
-  (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
-  (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
-  (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
-
-  (pad 3 thru_hole circle (at -1.27 5.08) (size 1.905 1.905) (drill 1.04) (layers *.Cu B.Mask)
-    (net 207 "Net-(K_12-Pad3)"))
-  (pad 4 thru_hole rect (at 1.27 5.08) (size 1.905 1.905) (drill 1.04) (layers *.Cu B.Mask)
-    (net 208 "Net-(K_12-Pad4)"))
-  (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
-  (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
-  (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
-
-  
-  
-  
-)
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 66281DD4)
-    (at
-    191.95
-    58.6
-    90)
-    (attr smd)
-    (fp_text reference D_12 (at 0 1.925 90) (layer F.SilkS)
-      (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text value D (at 0 -1.925 90) (layer F.SilkS) hide
-      (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
-    )
-    (fp_line (start -2.275 -1.2) (end -2.275 1.2) (layer F.SilkS) (width 0.2))
-    (fp_line (start -2.45 -1.2) (end -2.45 1.2) (layer F.SilkS) (width 0.2))
-    (fp_line (start -2.625 -1.2) (end -2.625 1.2) (layer F.SilkS) (width 0.2))
-    (fp_line (start -3.025 1.2) (end -3.025 -1.2) (layer F.SilkS) (width 0.2))
-    (fp_line (start -2.8 -1.2) (end -2.8 1.2) (layer F.SilkS) (width 0.2))
-    (fp_line (start -2.925 -1.2) (end -2.925 1.2) (layer F.SilkS) (width 0.2))
-    (fp_line (start -3 -1.2) (end 2.8 -1.2) (layer F.SilkS) (width 0.2))
-    (fp_line (start 2.8 -1.2) (end 2.8 1.2) (layer F.SilkS) (width 0.2))
-    (fp_line (start 2.8 1.2) (end -3 1.2) (layer F.SilkS) (width 0.2))
-    (pad 1 smd rect (at -2.7 0 90) (size 2.5 0.5) (layers F.Cu)
       (net 12 "/col9"))
     (pad 1 smd rect (at -1.575 0 90) (size 1.2 1.2) (layers F.Cu F.Paste F.Mask)
       (net 12 "/col9"))
     (pad 1 thru_hole rect (at -3.9 0 90) (size 1.6 1.6) (drill 0.7) (layers *.Cu *.Mask F.SilkS)
       (net 12 "/col9"))
     (pad 2 smd rect (at 1.575 0 90) (size 1.2 1.2) (layers F.Cu F.Paste F.Mask)
-      (net 210 "Net-(D_12-Pad2)"))
+      (net 210 "Net-(D_9-Pad2)"))
     (pad 2 smd rect (at 2.7 0 90) (size 2.5 0.5) (layers F.Cu)
-      (net 210 "Net-(D_12-Pad2)"))
+      (net 210 "Net-(D_9-Pad2)"))
     (pad 2 thru_hole circle (at 3.9 0 90) (size 1.6 1.6) (drill 0.7) (layers *.Cu *.Mask F.SilkS)
-      (net 210 "Net-(D_12-Pad2)"))
+      (net 210 "Net-(D_9-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 66285B93)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB46625)
   (at
   220.025
   58.1
@@ -4120,7 +4120,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 6628ABDF)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB49559)
     (at
     211
     58.6
@@ -4155,7 +4155,7 @@
       (net 216 "Net-(D_0-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 66286E8A)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB4B730)
   (at
   239.075
   58.1
@@ -4202,7 +4202,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 66280CF4)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB4FE24)
     (at
     230.05
     58.6
@@ -4237,7 +4237,7 @@
       (net 222 "Net-(D_MINUS-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 66282923)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB4B446)
   (at
   258.125
   58.1
@@ -4284,7 +4284,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 662854DE)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB40F71)
     (at
     249.1
     58.6
@@ -4319,7 +4319,7 @@
       (net 228 "Net-(D_EQUAL-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-2U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 66286683)
+(module MX_Alps_Hybrid:MX-2U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB431AE)
   (at
   286.7
   58.1
@@ -4369,7 +4369,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 6628BE1E)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB40960)
     (at
     268.15
     58.6
@@ -4404,7 +4404,7 @@
       (net 234 "Net-(D_BACKSPACE-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 6628B7FB)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB4ABA2)
   (at
   320.0375
   58.1
@@ -4451,7 +4451,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 6628CA5A)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB450A0)
     (at
     311.0125
     58.6
@@ -4486,7 +4486,7 @@
       (net 240 "Net-(D_INSERT-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 6628EAE6)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB4AFF9)
   (at
   339.0875
   58.1
@@ -4533,7 +4533,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 66280FDE)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB48649)
     (at
     330.0625
     58.6
@@ -4568,7 +4568,7 @@
       (net 246 "Net-(D_HOME-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 66282E78)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB4F3FD)
   (at
   358.1375
   58.1
@@ -4615,7 +4615,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 6628954F)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB464DF)
     (at
     349.1125
     58.6
@@ -4650,7 +4650,7 @@
       (net 252 "Net-(D_PGUP-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 662875D1)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB4D4A9)
   (at
   381.95
   58.1
@@ -4697,7 +4697,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 6628E54B)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB4B7BF)
     (at
     372.925
     58.6
@@ -4732,7 +4732,7 @@
       (net 258 "Net-(D_NUM_LOCK-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 6628592C)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB4C219)
   (at
   401
   58.1
@@ -4779,7 +4779,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 6628EC9D)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB46C0C)
     (at
     391.975
     58.6
@@ -4814,7 +4814,7 @@
       (net 264 "Net-(D_SLASH-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 6628ACF8)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB478C8)
   (at
   420.05
   58.1
@@ -4861,7 +4861,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 66280AF0)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB45F65)
     (at
     411.025
     58.6
@@ -4896,7 +4896,7 @@
       (net 270 "Net-(D_*-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 6628D1FB)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB43397)
   (at
   439.1
   58.1
@@ -4943,7 +4943,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 662865D4)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB41A08)
     (at
     430.075
     58.6
@@ -4978,7 +4978,7 @@
       (net 276 "Net-(D_MINUS1-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1.5U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 662850C6)
+(module MX_Alps_Hybrid:MX-1.5U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB446D4)
   (at
   34.2875
   77.15
@@ -5025,7 +5025,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 66289DC9)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB4A3EB)
     (at
     20.5
     77.65
@@ -5060,7 +5060,7 @@
       (net 282 "Net-(D_TAB-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 6628B625)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB4A6DF)
   (at
   58.1
   77.15
@@ -5107,7 +5107,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 662851E3)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB416FD)
     (at
     49.075
     77.65
@@ -5142,7 +5142,7 @@
       (net 288 "Net-(D_Q-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 66280F6E)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB44991)
   (at
   77.15
   77.15
@@ -5189,7 +5189,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 6628B5DE)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB43DED)
     (at
     68.125
     77.65
@@ -5224,7 +5224,7 @@
       (net 294 "Net-(D_W-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 6628E457)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB4E326)
   (at
   96.2
   77.15
@@ -5271,7 +5271,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 66284BEE)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB4EDC8)
     (at
     87.175
     77.65
@@ -5306,7 +5306,7 @@
       (net 300 "Net-(D_E-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 66281CE3)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB49C2D)
   (at
   115.25
   77.15
@@ -5353,7 +5353,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 66289984)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB427E0)
     (at
     106.225
     77.65
@@ -5388,7 +5388,7 @@
       (net 306 "Net-(D_R-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 66286D6B)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB4FCEA)
   (at
   134.3
   77.15
@@ -5435,7 +5435,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 662867FF)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB4A756)
     (at
     125.275
     77.65
@@ -5470,7 +5470,7 @@
       (net 312 "Net-(D_T-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 6628940A)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB4DDD2)
   (at
   153.35
   77.15
@@ -5517,7 +5517,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 6628BFB5)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB40C0E)
     (at
     144.325
     77.65
@@ -5552,7 +5552,7 @@
       (net 318 "Net-(D_Y-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 66283CA1)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB442B7)
   (at
   172.4
   77.15
@@ -5599,7 +5599,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 662855AC)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB4B074)
     (at
     163.375
     77.65
@@ -5634,7 +5634,7 @@
       (net 324 "Net-(D_U-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 66284B39)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB42AF9)
   (at
   191.45
   77.15
@@ -5681,7 +5681,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 6628BE62)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB4D33E)
     (at
     182.425
     77.65
@@ -5716,7 +5716,7 @@
       (net 330 "Net-(D_I-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 66284DEB)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB4C3B1)
   (at
   210.5
   77.15
@@ -5763,7 +5763,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 66285ACD)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB41399)
     (at
     201.475
     77.65
@@ -5798,7 +5798,7 @@
       (net 336 "Net-(D_O-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 6628D5EB)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB4A669)
   (at
   229.55
   77.15
@@ -5845,7 +5845,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 6628B61C)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB4F367)
     (at
     220.525
     77.65
@@ -5880,7 +5880,7 @@
       (net 342 "Net-(D_P-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 66286702)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB42294)
   (at
   248.6
   77.15
@@ -5927,7 +5927,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 6628F645)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB42751)
     (at
     239.575
     77.65
@@ -5962,7 +5962,7 @@
       (net 348 "Net-(D_[-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 66284290)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB49734)
   (at
   267.65
   77.15
@@ -6009,7 +6009,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 66289668)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB49F0B)
     (at
     258.625
     77.65
@@ -6044,7 +6044,7 @@
       (net 354 "Net-(D_]-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1.5U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 66283A66)
+(module MX_Alps_Hybrid:MX-1.5U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB4EB5A)
   (at
   291.4625
   77.15
@@ -6091,7 +6091,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 662839C1)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB4B27A)
     (at
     277.675
     77.65
@@ -6126,7 +6126,7 @@
       (net 360 "Net-(D_BSLSH-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 662877BC)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB40F33)
   (at
   320.0375
   77.15
@@ -6173,7 +6173,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 6628B35A)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB4952A)
     (at
     311.0125
     77.65
@@ -6208,7 +6208,7 @@
       (net 366 "Net-(D_DELETE-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 66282E2B)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB4F898)
   (at
   339.0875
   77.15
@@ -6255,7 +6255,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 66280A6E)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB4FCE3)
     (at
     330.0625
     77.65
@@ -6290,7 +6290,7 @@
       (net 372 "Net-(D_END-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 6628CFFB)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB434D0)
   (at
   358.1375
   77.15
@@ -6337,7 +6337,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 66286F1E)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB47E8C)
     (at
     349.1125
     77.65
@@ -6372,7 +6372,7 @@
       (net 378 "Net-(D_PGDN-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 66280503)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB47C48)
   (at
   381.95
   77.15
@@ -6419,7 +6419,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 6628977B)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB423AB)
     (at
     372.925
     77.65
@@ -6454,7 +6454,7 @@
       (net 384 "Net-(D_HOME1-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 6628D19F)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB47847)
   (at
   401
   77.15
@@ -6501,7 +6501,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 6628F945)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB483EF)
     (at
     391.975
     77.65
@@ -6536,7 +6536,7 @@
       (net 390 "Net-(D_↑-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 662859A8)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB44B11)
   (at
   420.05
   77.15
@@ -6583,7 +6583,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 66287D49)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB49251)
     (at
     411.025
     77.65
@@ -6618,7 +6618,7 @@
       (net 396 "Net-(D_PGUP1-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-2U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 6628F24A)
+(module MX_Alps_Hybrid:MX-2U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB4118F)
   (at
   439.1
   86.675
@@ -6668,7 +6668,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 6628E138)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB40E9A)
     (at
     420.55
     87.175
@@ -6703,7 +6703,7 @@
       (net 402 "Net-(D_+-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1.75U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 6628DAD5)
+(module MX_Alps_Hybrid:MX-1.75U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB4BE63)
   (at
   36.66875
   96.2
@@ -6750,7 +6750,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 66284A38)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB49AE2)
     (at
     20.5
     96.7
@@ -6785,7 +6785,7 @@
       (net 408 "Net-(D_CAPS_LOCK-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 66282526)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB41926)
   (at
   62.8625
   96.2
@@ -6832,7 +6832,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 6628B928)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB42EC0)
     (at
     53.8375
     96.7
@@ -6867,7 +6867,7 @@
       (net 414 "Net-(D_A-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 662866CB)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB4B2AF)
   (at
   81.9125
   96.2
@@ -6914,7 +6914,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 6628252D)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB46483)
     (at
     72.8875
     96.7
@@ -6949,7 +6949,7 @@
       (net 420 "Net-(D_S-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 66289ADC)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB463D1)
   (at
   100.9625
   96.2
@@ -6996,7 +6996,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 6628D61B)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB4D22C)
     (at
     91.9375
     96.7
@@ -7031,7 +7031,7 @@
       (net 426 "Net-(D_D-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 6628E001)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB49658)
   (at
   120.0125
   96.2
@@ -7078,7 +7078,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 6628F3C0)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB41E6B)
     (at
     110.9875
     96.7
@@ -7113,7 +7113,7 @@
       (net 432 "Net-(D_F-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 6628D94F)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB4C387)
   (at
   139.0625
   96.2
@@ -7160,7 +7160,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 6628EE0B)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB4AA5E)
     (at
     130.0375
     96.7
@@ -7195,7 +7195,7 @@
       (net 438 "Net-(D_G-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 6628A346)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB444D1)
   (at
   158.1125
   96.2
@@ -7242,7 +7242,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 66288169)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB41265)
     (at
     149.0875
     96.7
@@ -7277,7 +7277,7 @@
       (net 444 "Net-(D_H-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 66283D52)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB4160C)
   (at
   177.1625
   96.2
@@ -7324,7 +7324,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 6628B577)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB4A9CE)
     (at
     168.1375
     96.7
@@ -7359,7 +7359,7 @@
       (net 450 "Net-(D_J-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 6628B005)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB495F1)
   (at
   196.2125
   96.2
@@ -7406,7 +7406,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 6628A182)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB4536E)
     (at
     187.1875
     96.7
@@ -7441,7 +7441,7 @@
       (net 456 "Net-(D_K-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 66284CDF)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB42642)
   (at
   215.2625
   96.2
@@ -7488,7 +7488,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 6628A89D)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB4BAC6)
     (at
     206.2375
     96.7
@@ -7523,7 +7523,7 @@
       (net 462 "Net-(D_L-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 66283BB1)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB4B84D)
   (at
   234.3125
   96.2
@@ -7570,7 +7570,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 662865B2)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB40432)
     (at
     225.2875
     96.7
@@ -7605,7 +7605,7 @@
       (net 468 "Net-(D_SEMIC-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 66286D68)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB48555)
   (at
   253.3625
   96.2
@@ -7652,7 +7652,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 6628F839)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB43B9D)
     (at
     244.3375
     96.7
@@ -7687,7 +7687,7 @@
       (net 474 "Net-(D_QUOTE-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-2.25U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 662897E9)
+(module MX_Alps_Hybrid:MX-2.25U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB47737)
   (at
   284.31875
   96.2
@@ -7737,7 +7737,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 6628867F)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB42838)
     (at
     263.3875
     96.7
@@ -7772,7 +7772,7 @@
       (net 480 "Net-(D_ENTER-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 66282D82)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB432BD)
   (at
   381.95
   96.2
@@ -7819,7 +7819,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 66284A60)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB43AC3)
     (at
     372.925
     96.7
@@ -7854,12 +7854,12 @@
       (net 486 "Net-(D_←-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 6628A1C8)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB451AF)
   (at
   401
   96.2
   )
-  (fp_text reference K_13 (at 0 3.175) (layer Dwgs.User)
+  (fp_text reference K_10 (at 0 3.175) (layer Dwgs.User)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value KEYSW (at 0 -7.9375) (layer Dwgs.User)
@@ -7878,21 +7878,21 @@
   (fp_line (start 9.525 9.525) (end -9.525 9.525) (layer Dwgs.User) (width 0.15))
   (fp_line (start -9.525 9.525) (end -9.525 -9.525) (layer Dwgs.User) (width 0.15))
   (pad 1 thru_hole circle (at -2.5 -4) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 487 "Net-(K_13-Pad1)"))
+    (net 487 "Net-(K_10-Pad1)"))
   (pad 1 thru_hole oval (at -3.81 -2.54 48.0996) (size 4.211556 2.25) (drill 1.47 (offset 0.980778 0)) (layers *.Cu B.Mask)
-    (net 487 "Net-(K_13-Pad1)"))
+    (net 487 "Net-(K_10-Pad1)"))
   (pad 2 thru_hole oval (at 2.5 -4.5 86.0548) (size 2.831378 2.25) (drill 1.47 (offset 0.290689 0)) (layers *.Cu B.Mask)
-    (net 492 "Net-(D_13-Pad2)"))
+    (net 492 "Net-(D_10-Pad2)"))
   (pad 2 thru_hole circle (at 2.54 -5.08) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 492 "Net-(D_13-Pad2)"))
+    (net 492 "Net-(D_10-Pad2)"))
   (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
 
   (pad 3 thru_hole circle (at -1.27 5.08) (size 1.905 1.905) (drill 1.04) (layers *.Cu B.Mask)
-    (net 489 "Net-(K_13-Pad3)"))
+    (net 489 "Net-(K_10-Pad3)"))
   (pad 4 thru_hole rect (at 1.27 5.08) (size 1.905 1.905) (drill 1.04) (layers *.Cu B.Mask)
-    (net 490 "Net-(K_13-Pad4)"))
+    (net 490 "Net-(K_10-Pad4)"))
   (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
@@ -7901,13 +7901,13 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 6628CB47)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB4DDD1)
     (at
     391.975
     96.7
     90)
     (attr smd)
-    (fp_text reference D_13 (at 0 1.925 90) (layer F.SilkS)
+    (fp_text reference D_10 (at 0 1.925 90) (layer F.SilkS)
       (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
     )
     (fp_text value D (at 0 -1.925 90) (layer F.SilkS) hide
@@ -7929,14 +7929,14 @@
     (pad 1 thru_hole rect (at -3.9 0 90) (size 1.6 1.6) (drill 0.7) (layers *.Cu *.Mask F.SilkS)
       (net 17 "/col14"))
     (pad 2 smd rect (at 1.575 0 90) (size 1.2 1.2) (layers F.Cu F.Paste F.Mask)
-      (net 492 "Net-(D_13-Pad2)"))
+      (net 492 "Net-(D_10-Pad2)"))
     (pad 2 smd rect (at 2.7 0 90) (size 2.5 0.5) (layers F.Cu)
-      (net 492 "Net-(D_13-Pad2)"))
+      (net 492 "Net-(D_10-Pad2)"))
     (pad 2 thru_hole circle (at 3.9 0 90) (size 1.6 1.6) (drill 0.7) (layers *.Cu *.Mask F.SilkS)
-      (net 492 "Net-(D_13-Pad2)"))
+      (net 492 "Net-(D_10-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 6628187D)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB43B7D)
   (at
   420.05
   96.2
@@ -7983,7 +7983,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 66282552)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB4F46A)
     (at
     411.025
     96.7
@@ -8018,7 +8018,7 @@
       (net 498 "Net-(D_→-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-2.25U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 6628AF8D)
+(module MX_Alps_Hybrid:MX-2.25U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB4F255)
   (at
   41.43125
   115.25
@@ -8068,7 +8068,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 6628BA5E)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB47400)
     (at
     20.5
     115.75
@@ -8103,7 +8103,7 @@
       (net 504 "Net-(D_SHIFT-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 662800B6)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB4DB4C)
   (at
   72.3875
   115.25
@@ -8150,7 +8150,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 66289DFB)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB40482)
     (at
     63.3625
     115.75
@@ -8185,7 +8185,7 @@
       (net 510 "Net-(D_Z-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 6628A574)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB4FE3C)
   (at
   91.4375
   115.25
@@ -8232,7 +8232,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 662886F4)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB4B60C)
     (at
     82.4125
     115.75
@@ -8267,7 +8267,7 @@
       (net 516 "Net-(D_X-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 66284024)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB45C57)
   (at
   110.4875
   115.25
@@ -8314,7 +8314,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 662846FA)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB4C9F8)
     (at
     101.4625
     115.75
@@ -8349,7 +8349,7 @@
       (net 522 "Net-(D_C-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 6628ACB6)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB46F82)
   (at
   129.5375
   115.25
@@ -8396,7 +8396,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 66287E5E)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB46ABE)
     (at
     120.5125
     115.75
@@ -8431,7 +8431,7 @@
       (net 528 "Net-(D_V-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 66280FD1)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB44869)
   (at
   148.5875
   115.25
@@ -8478,7 +8478,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 6628DEE0)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB4F787)
     (at
     139.5625
     115.75
@@ -8513,7 +8513,7 @@
       (net 534 "Net-(D_B-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 66286846)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB4307A)
   (at
   167.6375
   115.25
@@ -8560,7 +8560,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 6628B7EB)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB46754)
     (at
     158.6125
     115.75
@@ -8595,7 +8595,7 @@
       (net 540 "Net-(D_N-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 6628C61D)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB47D18)
   (at
   186.6875
   115.25
@@ -8642,7 +8642,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 6628CC0B)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB465C5)
     (at
     177.6625
     115.75
@@ -8677,7 +8677,7 @@
       (net 546 "Net-(D_M-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 66282812)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB49F1D)
   (at
   205.7375
   115.25
@@ -8724,7 +8724,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 66285B90)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB4BF66)
     (at
     196.7125
     115.75
@@ -8759,7 +8759,7 @@
       (net 552 "Net-(D_COMMA-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 6628F724)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB4BF64)
   (at
   224.7875
   115.25
@@ -8806,7 +8806,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 662898F8)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB47034)
     (at
     215.7625
     115.75
@@ -8841,7 +8841,7 @@
       (net 558 "Net-(D_DOT-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 66284DC1)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB488AB)
   (at
   243.8375
   115.25
@@ -8888,7 +8888,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 6628741C)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB4D138)
     (at
     234.8125
     115.75
@@ -8923,7 +8923,7 @@
       (net 564 "Net-(D_SLASH1-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-2.75U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 662860C3)
+(module MX_Alps_Hybrid:MX-2.75U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB4732E)
   (at
   279.55625
   115.25
@@ -8973,7 +8973,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 6628A2A6)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB47ED1)
     (at
     253.8625
     115.75
@@ -9008,7 +9008,7 @@
       (net 570 "Net-(D_SHIFT1-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 6628714A)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB479DD)
   (at
   339.0875
   115.25
@@ -9055,7 +9055,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 6628D386)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB428A8)
     (at
     330.0625
     115.75
@@ -9090,7 +9090,7 @@
       (net 576 "Net-(D_↑1-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 66287A12)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB4B98F)
   (at
   381.95
   115.25
@@ -9137,7 +9137,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 662821C5)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB486D8)
     (at
     372.925
     115.75
@@ -9172,7 +9172,7 @@
       (net 582 "Net-(D_END1-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 6628AD3D)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB49DBF)
   (at
   401
   115.25
@@ -9219,7 +9219,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 6628B9A0)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB4B906)
     (at
     391.975
     115.75
@@ -9254,7 +9254,7 @@
       (net 588 "Net-(D_↓-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 6628D3E3)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB43BB9)
   (at
   420.05
   115.25
@@ -9301,7 +9301,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 66284E62)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB42C64)
     (at
     411.025
     115.75
@@ -9336,7 +9336,7 @@
       (net 594 "Net-(D_PGDN1-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-2U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 662813A5)
+(module MX_Alps_Hybrid:MX-2U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB4F7D0)
   (at
   439.1
   124.775
@@ -9386,7 +9386,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 66289B9B)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB476D2)
     (at
     420.55
     125.275
@@ -9421,7 +9421,7 @@
       (net 600 "Net-(D_ENTER1-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1.25U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 66284689)
+(module MX_Alps_Hybrid:MX-1.25U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB4FA9B)
   (at
   31.90625
   134.3
@@ -9468,7 +9468,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 66286AAF)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB4F8F4)
     (at
     20.5
     134.8
@@ -9503,7 +9503,7 @@
       (net 606 "Net-(D_CTRL-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1.25U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 6628384B)
+(module MX_Alps_Hybrid:MX-1.25U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB4A046)
   (at
   55.71875
   134.3
@@ -9550,7 +9550,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 662801C9)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB487A3)
     (at
     44.3125
     134.8
@@ -9585,7 +9585,7 @@
       (net 612 "Net-(D_WIN-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1.25U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 66286391)
+(module MX_Alps_Hybrid:MX-1.25U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB491E8)
   (at
   79.53125
   134.3
@@ -9632,7 +9632,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 662815A9)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB40CAC)
     (at
     68.125
     134.8
@@ -9667,12 +9667,12 @@
       (net 618 "Net-(D_ALT-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-6.25U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 66284C81)
+(module MX_Alps_Hybrid:MX-6.25U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB4B3F9)
   (at
   150.96875
   134.3
   )
-  (fp_text reference K_14 (at 0 3.175) (layer Dwgs.User)
+  (fp_text reference K_ (at 0 3.175) (layer Dwgs.User)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value KEYSW (at 0 -7.9375) (layer Dwgs.User)
@@ -9691,21 +9691,21 @@
   (fp_line (start 59.53125 9.525) (end -59.53125 9.525) (layer Dwgs.User) (width 0.15))
   (fp_line (start -59.53125 9.525) (end -59.53125 -9.525) (layer Dwgs.User) (width 0.15))
   (pad 1 thru_hole circle (at -2.5 -4) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 619 "Net-(K_14-Pad1)"))
+    (net 619 "Net-(K_-Pad1)"))
   (pad 1 thru_hole oval (at -3.81 -2.54 48.0996) (size 4.211556 2.25) (drill 1.47 (offset 0.980778 0)) (layers *.Cu B.Mask)
-    (net 619 "Net-(K_14-Pad1)"))
+    (net 619 "Net-(K_-Pad1)"))
   (pad 2 thru_hole oval (at 2.5 -4.5 86.0548) (size 2.831378 2.25) (drill 1.47 (offset 0.290689 0)) (layers *.Cu B.Mask)
-    (net 624 "Net-(D_14-Pad2)"))
+    (net 624 "Net-(D_-Pad2)"))
   (pad 2 thru_hole circle (at 2.54 -5.08) (size 2.25 2.25) (drill 1.47) (layers *.Cu B.Mask)
-    (net 624 "Net-(D_14-Pad2)"))
+    (net 624 "Net-(D_-Pad2)"))
   (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
 
   (pad 3 thru_hole circle (at -1.27 5.08) (size 1.905 1.905) (drill 1.04) (layers *.Cu B.Mask)
-    (net 621 "Net-(K_14-Pad3)"))
+    (net 621 "Net-(K_-Pad3)"))
   (pad 4 thru_hole rect (at 1.27 5.08) (size 1.905 1.905) (drill 1.04) (layers *.Cu B.Mask)
-    (net 622 "Net-(K_14-Pad4)"))
+    (net 622 "Net-(K_-Pad4)"))
   (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
@@ -9717,13 +9717,13 @@
   (pad "" np_thru_hole circle (at 49.9999 8.255) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 66289DE2)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB40124)
     (at
     91.9375
     134.8
     90)
     (attr smd)
-    (fp_text reference D_14 (at 0 1.925 90) (layer F.SilkS)
+    (fp_text reference D_ (at 0 1.925 90) (layer F.SilkS)
       (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
     )
     (fp_text value D (at 0 -1.925 90) (layer F.SilkS) hide
@@ -9745,14 +9745,14 @@
     (pad 1 thru_hole rect (at -3.9 0 90) (size 1.6 1.6) (drill 0.7) (layers *.Cu *.Mask F.SilkS)
       (net 6 "/col3"))
     (pad 2 smd rect (at 1.575 0 90) (size 1.2 1.2) (layers F.Cu F.Paste F.Mask)
-      (net 624 "Net-(D_14-Pad2)"))
+      (net 624 "Net-(D_-Pad2)"))
     (pad 2 smd rect (at 2.7 0 90) (size 2.5 0.5) (layers F.Cu)
-      (net 624 "Net-(D_14-Pad2)"))
+      (net 624 "Net-(D_-Pad2)"))
     (pad 2 thru_hole circle (at 3.9 0 90) (size 1.6 1.6) (drill 0.7) (layers *.Cu *.Mask F.SilkS)
-      (net 624 "Net-(D_14-Pad2)"))
+      (net 624 "Net-(D_-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1.25U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 66280178)
+(module MX_Alps_Hybrid:MX-1.25U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB440F1)
   (at
   222.40625
   134.3
@@ -9799,7 +9799,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 6628718F)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB450B4)
     (at
     211
     134.8
@@ -9834,7 +9834,7 @@
       (net 630 "Net-(D_ALT1-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1.25U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 662800DF)
+(module MX_Alps_Hybrid:MX-1.25U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB43433)
   (at
   246.21875
   134.3
@@ -9881,7 +9881,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 6628EB6C)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB4EEF8)
     (at
     234.8125
     134.8
@@ -9916,7 +9916,7 @@
       (net 636 "Net-(D_WIN1-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1.25U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 6628189E)
+(module MX_Alps_Hybrid:MX-1.25U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB43210)
   (at
   270.03125
   134.3
@@ -9963,7 +9963,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 6628BDEF)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB4A09A)
     (at
     258.625
     134.8
@@ -9998,7 +9998,7 @@
       (net 642 "Net-(D_MENU-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1.25U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 66280239)
+(module MX_Alps_Hybrid:MX-1.25U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB4B38E)
   (at
   293.84375
   134.3
@@ -10045,7 +10045,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 66280962)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB4B835)
     (at
     282.4375
     134.8
@@ -10080,7 +10080,7 @@
       (net 648 "Net-(D_CTRL1-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 6628ACD3)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB46EF7)
   (at
   320.0375
   134.3
@@ -10127,7 +10127,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 6628E71D)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB42D38)
     (at
     311.0125
     134.8
@@ -10162,7 +10162,7 @@
       (net 654 "Net-(D_←1-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 6628C4BC)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB4A58E)
   (at
   339.0875
   134.3
@@ -10209,7 +10209,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 66282B51)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB441FD)
     (at
     330.0625
     134.8
@@ -10244,7 +10244,7 @@
       (net 660 "Net-(D_↓1-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 6628D5B3)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB4E79D)
   (at
   358.1375
   134.3
@@ -10291,7 +10291,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 6628C03F)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB47E32)
     (at
     349.1125
     134.8
@@ -10326,7 +10326,7 @@
       (net 666 "Net-(D_→1-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-2U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 662890DD)
+(module MX_Alps_Hybrid:MX-2U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB47D02)
   (at
   391.475
   134.3
@@ -10376,7 +10376,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 6628140E)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB46FC9)
     (at
     372.925
     134.8
@@ -10411,7 +10411,7 @@
       (net 672 "Net-(D_INS-Pad2)"))
   )
 
-(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 662865F0)
+(module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp BDB41DCC)
   (at
   420.05
   134.3
@@ -10458,7 +10458,7 @@
   
   
 )
-(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp 6628DA93)
+(module keyboard_parts:D_SOD123_axial (layer F.Cu) (tedit 561B6A12) (tstamp BDB48797)
     (at
     411.025
     134.8
@@ -10531,13 +10531,13 @@
       )
     )
   )
-  (module Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder (layer B.Cu) (tedit 5B36C52B) (tstamp 66289E2A)
+  (module Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder (layer B.Cu) (tedit 5B36C52B) (tstamp BDB408F5)
     (at 463.15 40 )
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (path /5C81716D)
     (attr smd)
-    (fp_text reference C15 (at 0 1.65 ) (layer B.SilkS)
+    (fp_text reference C8 (at 0 1.65 ) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value 22pF (at 0 -1.65 ) (layer B.Fab)
@@ -10557,7 +10557,7 @@
     (fp_line (start -1 0.6) (end 1 0.6) (layer B.Fab) (width 0.1))
     (fp_line (start -1 -0.6) (end -1 0.6) (layer B.Fab) (width 0.1))
     (pad 1 smd roundrect (at -1.025 0 ) (size 1.15 1.4) (layers B.Cu B.Paste B.Mask) (roundrect_rratio 0.217391)
-      (net 679 "Net-(C15-Pad1)"))
+      (net 679 "Net-(C8-Pad1)"))
     (pad 2 smd roundrect (at 1.025 0 ) (size 1.15 1.4) (layers B.Cu B.Paste B.Mask) (roundrect_rratio 0.217391)
       (net 1 GND))
     (model ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl
@@ -10566,13 +10566,13 @@
       (rotate (xyz 0 0 0))
     )
   )
-  (module Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder (layer B.Cu) (tedit 5B36C52B) (tstamp 66289FE1)
+  (module Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder (layer B.Cu) (tedit 5B36C52B) (tstamp BDB4EEFD)
     (at 473.15 40 )
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (path /5C81716D)
     (attr smd)
-    (fp_text reference C16 (at 0 1.65 ) (layer B.SilkS)
+    (fp_text reference C9 (at 0 1.65 ) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value 22pF (at 0 -1.65 ) (layer B.Fab)
@@ -10592,7 +10592,7 @@
     (fp_line (start -1 0.6) (end 1 0.6) (layer B.Fab) (width 0.1))
     (fp_line (start -1 -0.6) (end -1 0.6) (layer B.Fab) (width 0.1))
     (pad 1 smd roundrect (at -1.025 0 ) (size 1.15 1.4) (layers B.Cu B.Paste B.Mask) (roundrect_rratio 0.217391)
-      (net 681 "Net-(C16-Pad1)"))
+      (net 681 "Net-(C9-Pad1)"))
     (pad 2 smd roundrect (at 1.025 0 ) (size 1.15 1.4) (layers B.Cu B.Paste B.Mask) (roundrect_rratio 0.217391)
       (net 1 GND))
     (model ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl
@@ -10601,13 +10601,13 @@
       (rotate (xyz 0 0 0))
     )
   )
-(module Crystal:Crystal_SMD_5032-4Pin_5.0x3.2mm (layer B.Cu) (tedit 5A0FD1B2) (tstamp 66289724)
+(module Crystal:Crystal_SMD_5032-4Pin_5.0x3.2mm (layer B.Cu) (tedit 5A0FD1B2) (tstamp BDB4BE51)
     (at 468.15 40 )
     (descr "SMD Crystal SERIES SMD2520/4 http://www.icbase.com/File/PDF/HKC/HKC00061008.pdf, 5.0x3.2mm^2 package")
     (tags "SMD SMT crystal")
     (path /5C8172AF)
     (attr smd)
-    (fp_text reference X3 (at 0 2.8 ) (layer B.SilkS)
+    (fp_text reference X2 (at 0 2.8 ) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value XTAL_GND (at 0 -2.8 ) (layer B.Fab)
@@ -10632,26 +10632,26 @@
     (fp_line (start 2.8 -1.9) (end 2.8 1.9) (layer B.CrtYd) (width 0.05))
     (fp_line (start 2.8 1.9) (end -2.8 1.9) (layer B.CrtYd) (width 0.05))
     (pad 1 smd rect (at -1.65 -1 ) (size 1.6 1.3) (layers B.Cu B.Paste B.Mask)
-      (net 682 "Net-(C16-Pad2)"))
+      (net 682 "Net-(C9-Pad2)"))
     (pad 2 smd rect (at 1.65 -1 ) (size 1.6 1.3) (layers B.Cu B.Paste B.Mask)
-      (net 684 "Net-(X3-Pad2)"))
+      (net 684 "Net-(X2-Pad2)"))
     (pad 3 smd rect (at 1.65 1 ) (size 1.6 1.3) (layers B.Cu B.Paste B.Mask)
       (net 1 GND))
     (pad 4 smd rect (at -1.65 1 ) (size 1.6 1.3) (layers B.Cu B.Paste B.Mask)
-      (net 686 "Net-(X3-Pad4)"))
+      (net 686 "Net-(X2-Pad4)"))
     (model ${KISYS3DMOD}/Crystal.3dshapes/Crystal_SMD_5032-4Pin_5.0x3.2mm.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
-  (module Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder (layer B.Cu) (tedit 5B36C52B) (tstamp 662814E6)
+  (module Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder (layer B.Cu) (tedit 5B36C52B) (tstamp BDB444A5)
     (at 472.15 15 )
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (path /5C819B06)
     (attr smd)
-    (fp_text reference R9 (at 0 1.65 ) (layer B.SilkS)
+    (fp_text reference R5 (at 0 1.65 ) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value 10k (at 0 -1.65 ) (layer B.Fab)
@@ -10671,7 +10671,7 @@
     (fp_line (start -1 0.6) (end 1 0.6) (layer B.Fab) (width 0.1))
     (fp_line (start -1 -0.6) (end -1 0.6) (layer B.Fab) (width 0.1))
     (pad 1 smd roundrect (at -1.025 0 ) (size 1.15 1.4) (layers B.Cu B.Paste B.Mask) (roundrect_rratio 0.217391)
-      (net 687 "Net-(R9-Pad1)"))
+      (net 687 "Net-(R5-Pad1)"))
     (pad 2 smd roundrect (at 1.025 0 ) (size 1.15 1.4) (layers B.Cu B.Paste B.Mask) (roundrect_rratio 0.217391)
       (net 2 "VCC"))
     (model ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl
@@ -10680,7 +10680,7 @@
       (rotate (xyz 0 0 0))
     )
   )
-  (module Button_Switch_SMD:SW_SPST_TL3342 (layer B.Cu) (tedit 5A02FC95) (tstamp 6628C65B)
+  (module Button_Switch_SMD:SW_SPST_TL3342 (layer B.Cu) (tedit 5A02FC95) (tstamp BDB40608)
     (at 472.15 10 )
     (descr "Low-profile SMD Tactile Switch, https://www.e-switch.com/system/asset/product_line/data_sheet/165/TL3342.pdf")
     (tags "SPST Tactile Switch")
@@ -10745,22 +10745,22 @@
     (pad 1 smd rect (at 3.15 1.9 ) (size 1.7 1) (layers B.Cu B.Paste B.Mask)
       (net 1 GND))
     (pad 2 smd rect (at -3.15 -1.9 ) (size 1.7 1) (layers B.Cu B.Paste B.Mask)
-      (net 687 "Net-(R9-Pad1)"))
+      (net 687 "Net-(R5-Pad1)"))
     (pad 2 smd rect (at 3.15 -1.9 ) (size 1.7 1) (layers B.Cu B.Paste B.Mask)
-      (net 687 "Net-(R9-Pad1)"))
+      (net 687 "Net-(R5-Pad1)"))
     (model ${KISYS3DMOD}/Button_Switch_SMD.3dshapes/SW_SPST_TL3342.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
-  (module Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder (layer B.Cu) (tedit 5B36C52B) (tstamp 6628127D)
+  (module Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder (layer B.Cu) (tedit 5B36C52B) (tstamp BDB43FBC)
     (at 483.15 28 )
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (path /5C819B06)
     (attr smd)
-    (fp_text reference R10 (at 0 1.65 ) (layer B.SilkS)
+    (fp_text reference R6 (at 0 1.65 ) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value 10k (at 0 -1.65 ) (layer B.Fab)
@@ -10780,7 +10780,7 @@
     (fp_line (start -1 0.6) (end 1 0.6) (layer B.Fab) (width 0.1))
     (fp_line (start -1 -0.6) (end -1 0.6) (layer B.Fab) (width 0.1))
     (pad 1 smd roundrect (at -1.025 0 ) (size 1.15 1.4) (layers B.Cu B.Paste B.Mask) (roundrect_rratio 0.217391)
-      (net 691 "Net-(R10-Pad1)"))
+      (net 691 "Net-(R6-Pad1)"))
     (pad 2 smd roundrect (at 1.025 0 ) (size 1.15 1.4) (layers B.Cu B.Paste B.Mask) (roundrect_rratio 0.217391)
       (net 1 "GND"))
     (model ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl
@@ -10789,13 +10789,13 @@
       (rotate (xyz 0 0 0))
     )
   )
-  (module Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder (layer B.Cu) (tedit 5B36C52B) (tstamp 6628E3CF)
+  (module Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder (layer B.Cu) (tedit 5B36C52B) (tstamp BDB4F50B)
     (at 463.15 28 )
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (path /5C819B06)
     (attr smd)
-    (fp_text reference R11 (at 0 1.65 ) (layer B.SilkS)
+    (fp_text reference R7 (at 0 1.65 ) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value 22u (at 0 -1.65 ) (layer B.Fab)
@@ -10815,22 +10815,22 @@
     (fp_line (start -1 0.6) (end 1 0.6) (layer B.Fab) (width 0.1))
     (fp_line (start -1 -0.6) (end -1 0.6) (layer B.Fab) (width 0.1))
     (pad 1 smd roundrect (at -1.025 0 ) (size 1.15 1.4) (layers B.Cu B.Paste B.Mask) (roundrect_rratio 0.217391)
-      (net 693 "Net-(R11-Pad1)"))
+      (net 693 "Net-(R7-Pad1)"))
     (pad 2 smd roundrect (at 1.025 0 ) (size 1.15 1.4) (layers B.Cu B.Paste B.Mask) (roundrect_rratio 0.217391)
-      (net 698 "Net-(USB3-Pad2)"))
+      (net 698 "Net-(USB2-Pad2)"))
     (model ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
-  (module Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder (layer B.Cu) (tedit 5B36C52B) (tstamp 66289192)
+  (module Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder (layer B.Cu) (tedit 5B36C52B) (tstamp BDB49800)
     (at 463.15 32 )
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (path /5C819B06)
     (attr smd)
-    (fp_text reference R12 (at 0 1.65 ) (layer B.SilkS)
+    (fp_text reference R8 (at 0 1.65 ) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value 22u (at 0 -1.65 ) (layer B.Fab)
@@ -10850,21 +10850,21 @@
     (fp_line (start -1 0.6) (end 1 0.6) (layer B.Fab) (width 0.1))
     (fp_line (start -1 -0.6) (end -1 0.6) (layer B.Fab) (width 0.1))
     (pad 1 smd roundrect (at -1.025 0 ) (size 1.15 1.4) (layers B.Cu B.Paste B.Mask) (roundrect_rratio 0.217391)
-      (net 695 "Net-(R12-Pad1)"))
+      (net 695 "Net-(R8-Pad1)"))
     (pad 2 smd roundrect (at 1.025 0 ) (size 1.15 1.4) (layers B.Cu B.Paste B.Mask) (roundrect_rratio 0.217391)
-      (net 699 "Net-(USB3-Pad3)"))
+      (net 699 "Net-(USB2-Pad3)"))
     (model ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
-(module keyboard_parts:USB_miniB_hirose_5S8 (layer B.Cu) (tedit 5950B1FC) (tstamp 66280A7F)
+(module keyboard_parts:USB_miniB_hirose_5S8 (layer B.Cu) (tedit 5950B1FC) (tstamp BDB4D572)
     (at 239.075 25 )
     (descr "USB miniB hirose UX60SC-MB-5S8")
     (tags "USB miniB hirose through hole UX60SC-MB-5S8")
     (path /5C81F3FF)
-    (fp_text reference USB3 (at 0 -2.45 ) (layer B.SilkS) hide
+    (fp_text reference USB2 (at 0 -2.45 ) (layer B.SilkS) hide
       (effects (font (size 0.8128 0.8128) (thickness 0.2032)) (justify mirror))
     )
     (fp_text value USB_mini_micro_B (at 0 -7.95 ) (layer Dwgs.User) hide
@@ -10887,11 +10887,11 @@
     (pad 1 smd rect (at -1.6 0 ) (size 0.5 1.4) (layers B.Cu B.Paste B.Mask)
       (net 2 VCC))
     (pad 2 smd rect (at -0.8 0 ) (size 0.5 1.4) (layers B.Cu B.Paste B.Mask)
-      (net 698 "Net-(USB3-Pad2)"))
+      (net 698 "Net-(USB2-Pad2)"))
     (pad 3 smd rect (at 0 0 ) (size 0.5 1.4) (layers B.Cu B.Paste B.Mask)
-      (net 699 "Net-(USB3-Pad3)"))
+      (net 699 "Net-(USB2-Pad3)"))
     (pad 4 smd rect (at 0.8 0 ) (size 0.5 1.4) (layers B.Cu B.Paste B.Mask)
-      (net 700 "Net-(USB3-Pad4)"))
+      (net 700 "Net-(USB2-Pad4)"))
     (pad 5 smd rect (at 1.6 0 ) (size 0.5 1.4) (layers B.Cu B.Paste B.Mask)
       (net 1 GND))
     (pad 6 thru_hole oval (at -3.65 -2.4 ) (size 1.5 4) (drill oval 0.7 3.2) (layers *.Cu *.Mask B.Paste)
@@ -10899,13 +10899,13 @@
     (pad 6 thru_hole oval (at 3.65 -2.4 ) (size 1.5 4) (drill oval 0.7 3.2) (layers *.Cu *.Mask B.Paste)
       (net 1 GND))
   )
-  (module Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder (layer B.Cu) (tedit 5B36C52B) (tstamp 66288974)
+  (module Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder (layer B.Cu) (tedit 5B36C52B) (tstamp BDB4BE3B)
     (at 463.15 25 )
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (path /5C81716D)
     (attr smd)
-    (fp_text reference C17 (at 0 1.65 ) (layer B.SilkS)
+    (fp_text reference C10 (at 0 1.65 ) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value 22pF (at 0 -1.65 ) (layer B.Fab)
@@ -10925,7 +10925,7 @@
     (fp_line (start -1 0.6) (end 1 0.6) (layer B.Fab) (width 0.1))
     (fp_line (start -1 -0.6) (end -1 0.6) (layer B.Fab) (width 0.1))
     (pad 1 smd roundrect (at -1.025 0 ) (size 1.15 1.4) (layers B.Cu B.Paste B.Mask) (roundrect_rratio 0.217391)
-      (net 703 "Net-(C17-Pad1)"))
+      (net 703 "Net-(C10-Pad1)"))
     (pad 2 smd roundrect (at 1.025 0 ) (size 1.15 1.4) (layers B.Cu B.Paste B.Mask) (roundrect_rratio 0.217391)
       (net 1 GND))
     (model ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl
@@ -10934,13 +10934,13 @@
       (rotate (xyz 0 0 0))
     )
   )
-  (module Package_QFP:TQFP-44_10x10mm_P0.8mm (layer B.Cu) (tedit 5A02F146) (tstamp 66286984)
+  (module Package_QFP:TQFP-44_10x10mm_P0.8mm (layer B.Cu) (tedit 5A02F146) (tstamp BDB48320)
     (at 472.15 25 )
     (descr "44-Lead Plastic Thin Quad Flatpack (PT) - 10x10x1.0 mm Body [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)")
     (tags "QFP 0.8")
     (path /5C81704F)
     (attr smd)
-    (fp_text reference U3 (at 0 7.45) (layer B.SilkS)
+    (fp_text reference U2 (at 0 7.45) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value ATMEGA32U4 (at 0 -7.45) (layer B.Fab)
@@ -10968,19 +10968,19 @@
     (fp_line (start 5.175 5.175) (end 4.5 5.175) (layer B.SilkS) (width 0.15))
     (fp_line (start -5.175 4.6) (end -6.45 4.6) (layer B.SilkS) (width 0.15))
     (pad 1 smd rect (at -5.7 4) (size 1.5 0.55) (layers B.Cu B.Paste B.Mask)
-      (net 705 "Net-(U3-Pad1)"))
+      (net 705 "Net-(U2-Pad1)"))
     (pad 2 smd rect (at -5.7 3.2) (size 1.5 0.55) (layers B.Cu B.Paste B.Mask)
       (net 2 VCC))
     (pad 3 smd rect (at -5.7 2.4) (size 1.5 0.55) (layers B.Cu B.Paste B.Mask)
-      (net 693 "Net-(R11-Pad1)"))
+      (net 693 "Net-(R7-Pad1)"))
     (pad 4 smd rect (at -5.7 1.6) (size 1.5 0.55) (layers B.Cu B.Paste B.Mask)
-      (net 695 "Net-(R12-Pad1)"))
+      (net 695 "Net-(R8-Pad1)"))
     (pad 5 smd rect (at -5.7 0.8) (size 1.5 0.55) (layers B.Cu B.Paste B.Mask)
       (net 1 GND))
     (pad 6 smd rect (at -5.7 0) (size 1.5 0.55) (layers B.Cu B.Paste B.Mask)
-      (net 703 "Net-(C17-Pad1)"))
+      (net 703 "Net-(C10-Pad1)"))
     (pad 7 smd rect (at -5.7 -0.8) (size 1.5 0.55) (layers B.Cu B.Paste B.Mask)
-      (net 711 "Net-(U3-Pad7)"))
+      (net 711 "Net-(U2-Pad7)"))
     (pad 8 smd rect (at -5.7 -1.6) (size 1.5 0.55) (layers B.Cu B.Paste B.Mask)
       (net 12 "/col9"))
     (pad 9 smd rect (at -5.7 -2.4) (size 1.5 0.55) (layers B.Cu B.Paste B.Mask)
@@ -10992,17 +10992,17 @@
     (pad 12 smd rect (at -4 -5.7 270) (size 1.5 0.55) (layers B.Cu B.Paste B.Mask)
       (net 5 "/col2"))
     (pad 13 smd rect (at -3.2 -5.7 270) (size 1.5 0.55) (layers B.Cu B.Paste B.Mask)
-      (net 687 "Net-(R9-Pad1)"))
+      (net 687 "Net-(R5-Pad1)"))
     (pad 14 smd rect (at -2.4 -5.7 270) (size 1.5 0.55) (layers B.Cu B.Paste B.Mask)
       (net 2 VCC))
     (pad 15 smd rect (at -1.6 -5.7 270) (size 1.5 0.55) (layers B.Cu B.Paste B.Mask)
       (net 1 GND))
     (pad 16 smd rect (at -0.8 -5.7 270) (size 1.5 0.55) (layers B.Cu B.Paste B.Mask)
-      (net 679 "Net-(C15-Pad1)"))
+      (net 679 "Net-(C8-Pad1)"))
     (pad 17 smd rect (at 0 -5.7 270) (size 1.5 0.55) (layers B.Cu B.Paste B.Mask)
-      (net 681 "Net-(C16-Pad1)"))
+      (net 681 "Net-(C9-Pad1)"))
     (pad 18 smd rect (at 0.8 -5.7 270) (size 1.5 0.55) (layers B.Cu B.Paste B.Mask)
-      (net 722 "Net-(U3-Pad18)"))
+      (net 722 "Net-(U2-Pad18)"))
     (pad 19 smd rect (at 1.6 -5.7 270) (size 1.5 0.55) (layers B.Cu B.Paste B.Mask)
       (net 29 "/row5"))
     (pad 20 smd rect (at 2.4 -5.7 270) (size 1.5 0.55) (layers B.Cu B.Paste B.Mask)
@@ -11020,7 +11020,7 @@
     (pad 26 smd rect (at 5.7 -1.6) (size 1.5 0.55) (layers B.Cu B.Paste B.Mask)
       (net 24 "/row0"))
     (pad 27 smd rect (at 5.7 -0.8) (size 1.5 0.55) (layers B.Cu B.Paste B.Mask)
-      (net 731 "Net-(U3-Pad27)"))
+      (net 731 "Net-(U2-Pad27)"))
     (pad 28 smd rect (at 5.7 0) (size 1.5 0.55) (layers B.Cu B.Paste B.Mask)
       (net 8 "/col5"))
     (pad 29 smd rect (at 5.7 0.8) (size 1.5 0.55) (layers B.Cu B.Paste B.Mask)
@@ -11032,13 +11032,13 @@
     (pad 32 smd rect (at 5.7 3.2) (size 1.5 0.55) (layers B.Cu B.Paste B.Mask)
       (net 3 "/col0"))
     (pad 33 smd rect (at 5.7 4) (size 1.5 0.55) (layers B.Cu B.Paste B.Mask)
-      (net 691 "Net-(R10-Pad1)"))
+      (net 691 "Net-(R6-Pad1)"))
     (pad 34 smd rect (at 4 5.7 270) (size 1.5 0.55) (layers B.Cu B.Paste B.Mask)
-      (net 738 "Net-(U3-Pad34)"))
+      (net 738 "Net-(U2-Pad34)"))
     (pad 35 smd rect (at 3.2 5.7 270) (size 1.5 0.55) (layers B.Cu B.Paste B.Mask)
       )
     (pad 36 smd rect (at 2.4 5.7 270) (size 1.5 0.55) (layers B.Cu B.Paste B.Mask)
-      (net 740 "Net-(U3-Pad36)"))
+      (net 740 "Net-(U2-Pad36)"))
     (pad 37 smd rect (at 1.6 5.7 270) (size 1.5 0.55) (layers B.Cu B.Paste B.Mask)
       (net 13 "/col10"))
     (pad 38 smd rect (at 0.8 5.7 270) (size 1.5 0.55) (layers B.Cu B.Paste B.Mask)
@@ -11050,24 +11050,24 @@
     (pad 41 smd rect (at -1.6 5.7 270) (size 1.5 0.55) (layers B.Cu B.Paste B.Mask)
       (net 17 "/col14"))
     (pad 42 smd rect (at -2.4 5.7 270) (size 1.5 0.55) (layers B.Cu B.Paste B.Mask)
-      (net 746 "Net-(U3-Pad42)"))
+      (net 746 "Net-(U2-Pad42)"))
     (pad 43 smd rect (at -3.2 5.7 270) (size 1.5 0.55) (layers B.Cu B.Paste B.Mask)
-      (net 747 "Net-(U3-Pad43)"))
+      (net 747 "Net-(U2-Pad43)"))
     (pad 44 smd rect (at -4 5.7 270) (size 1.5 0.55) (layers B.Cu B.Paste B.Mask)
-      (net 748 "Net-(U3-Pad44)"))
+      (net 748 "Net-(U2-Pad44)"))
     (model ${KISYS3DMOD}/Package_QFP.3dshapes/TQFP-44_10x10mm_P0.8mm.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
-  (module Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder (layer B.Cu) (tedit 5B36C52B) (tstamp 6628E6B2)
+  (module Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder (layer B.Cu) (tedit 5B36C52B) (tstamp BDB4BC6F)
     (at 463.15 50 )
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (path /5C81716D)
     (attr smd)
-    (fp_text reference C18 (at 0 1.65 ) (layer B.SilkS)
+    (fp_text reference C11 (at 0 1.65 ) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value 22pF (at 0 -1.65 ) (layer B.Fab)
@@ -11096,13 +11096,13 @@
       (rotate (xyz 0 0 0))
     )
   )
-  (module Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder (layer B.Cu) (tedit 5B36C52B) (tstamp 6628AEB9)
+  (module Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder (layer B.Cu) (tedit 5B36C52B) (tstamp BDB467BD)
     (at 468.15 50 )
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (path /5C81716D)
     (attr smd)
-    (fp_text reference C19 (at 0 1.65 ) (layer B.SilkS)
+    (fp_text reference C12 (at 0 1.65 ) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value 22pF (at 0 -1.65 ) (layer B.Fab)
@@ -11131,13 +11131,13 @@
       (rotate (xyz 0 0 0))
     )
   )
-  (module Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder (layer B.Cu) (tedit 5B36C52B) (tstamp 662809C9)
+  (module Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder (layer B.Cu) (tedit 5B36C52B) (tstamp BDB43DDA)
     (at 473.15 50 )
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (path /5C81716D)
     (attr smd)
-    (fp_text reference C20 (at 0 1.65 ) (layer B.SilkS)
+    (fp_text reference C13 (at 0 1.65 ) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value 22pF (at 0 -1.65 ) (layer B.Fab)
@@ -11166,13 +11166,13 @@
       (rotate (xyz 0 0 0))
     )
   )
-  (module Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder (layer B.Cu) (tedit 5B36C52B) (tstamp 6628E7A0)
+  (module Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder (layer B.Cu) (tedit 5B36C52B) (tstamp BDB4B31A)
     (at 478.15 50 )
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (path /5C81716D)
     (attr smd)
-    (fp_text reference C21 (at 0 1.65 ) (layer B.SilkS)
+    (fp_text reference C14 (at 0 1.65 ) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value 22pF (at 0 -1.65 ) (layer B.Fab)
